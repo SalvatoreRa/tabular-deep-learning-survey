@@ -33,7 +33,9 @@
 | Date | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | Harmonic loss| [Harmonic Loss Trains Interpretable AI Models](https://arxiv.org/abs/2502.01628v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ches-001/audio-segmenter)  |
-| 2021 | Regularized tuned network| [https://arxiv.org/abs/2106.11189](https://arxiv.org/abs/2106.11189) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets)  |
+| 2021 | Regularized tuned network| [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets)  |
+| 2019 | Cancelout| [CancelOut: A Layer for Feature Selection in Deep Neural Networks](https://dl.acm.org/doi/10.1007/978-3-030-30484-3_6) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/unnir/CancelOut)  |
+| 2018 | STG| [Feature Selection using Stochastic Gates](https://arxiv.org/abs/1810.04247) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://yutaroyamada.com/stg/)  |
 | 2017 | SNN| [Self-normalizing neural networks](https://proceedings.neurips.cc/paper_files/paper/2017/hash/5d44ee6f2c3f71b73125876103c8f6c4-Abstract.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://www.kaggle.com/code/gulshanmishra/self-normalizing-neural-networks) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/bioinf-jku/SNNs) |
 
 
