@@ -32,6 +32,11 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2025 | Harmonic loss| [Harmonic Loss Trains Interpretable AI Models](https://arxiv.org/abs/2502.01628v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ches-001/audio-segmenter)  |
+| 2021 | Regularized tuned network| [https://arxiv.org/abs/2106.11189](https://arxiv.org/abs/2106.11189) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets)  |
+| 2017 | SNN| [Self-normalizing neural networks](https://proceedings.neurips.cc/paper_files/paper/2017/hash/5d44ee6f2c3f71b73125876103c8f6c4-Abstract.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://www.kaggle.com/code/gulshanmishra/self-normalizing-neural-networks) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/bioinf-jku/SNNs) |
+
+
 
 ## Specialized architectures
 
