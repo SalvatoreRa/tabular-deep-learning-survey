@@ -11,6 +11,7 @@
 | 2024 | CARTE | [CARTE: pretraining and transfer for tabular learning](https://proceedings.mlr.press/v235/kim24d.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/carte) |
 | 2024 | LM-IGTD | [LM-IGTD: a 2d image generator for low-dimensional and mixed-type tabular data to leverage the potential of convolutional neural networks](https://arxiv.org/abs/2406.14566) | -  |
 | 2023 | ReConTab | [Recontab: Regularized contrastive representation learning for tabular data](https://arxiv.org/abs/2310.18541) | - |
+| 2023 | HYTREL | [HYTREL: Hypergraph-enhanced Tabular Data Representation Learninga](https://arxiv.org/abs/2307.08623) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/hypergraph-tabular-lm) |
 | 2022 | DWTM | [A Dynamic Weighted Tabular Method for Convolutional Neural Networks](https://arxiv.org/abs/2205.10386) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AnonymousCIKM1/DWTM) |
 | 2021 | IGTD | [Converting tabular data into images for deep learning with convolutional neural networks](https://www.nature.com/articles/s41598-021-90923-y) | Scientific reports | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/oeg-upm/TINTOlib-Documentation) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/zhuyitan/IGTD) |
 | 2020 | VIME | [VIME: extending the success of self- and semi-supervised learning to tabular domain](https://proceedings.neurips.cc/paper_files/paper/2020/hash/7d97667a3e056acab9aaf653807b4a03-Abstract.html) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jsyoon0823/VIME) |
@@ -25,7 +26,7 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
-
+| 2023 | HyperTab | [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/abs/2304.03543) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wwydmanski/hypertab) |
 
 ## Regularization
 
