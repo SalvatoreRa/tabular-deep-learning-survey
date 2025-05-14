@@ -51,6 +51,7 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2016 | PNNs| [Product-based Neural Networks for User Response Prediction](https://arxiv.org/abs/1611.00144) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Atomu2014/product-nets) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/product-based-neural-networks-for-user) |
 
 ### MLP enhancements
 
