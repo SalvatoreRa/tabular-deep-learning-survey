@@ -109,8 +109,12 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2022 | GatedTabTransformer | [The GatedTabTransformer. An enhanced deep learning architecture for tabular modeling](https://arxiv.org/abs/2201.00199) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/radi-cho/GatedTabTransformer) |
+| 2021 | ARM-Net | [ARM-Net: Adaptive Relation Modeling Network for Structured Data](https://arxiv.org/abs/2107.01830) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://arxiv.org/abs/2107.01830) |
+| 2021 | TabNet | 
 | 2021 | Fair-TabNet | [Fairness in TabNet Model by Disentangled Representation for the Prediction of Hospital No-Show](https://arxiv.org/abs/2103.04048) | - |
 | 2021 | TabNet | [Tabnet: Attentive interpretable tabular learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dreamquark-ai/tabnet) |
+| 2020 | TabTransformer | [Tabtransformer: Tabular data modeling using contextual embeddings](https://arxiv.org/abs/2012.06678) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/lucidrains/tab-transformer-pytorch) |
 
 ### Data adaptation
 
