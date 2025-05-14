@@ -78,6 +78,7 @@
 | 2024 | BiSHop | [Bishop: Bi-directional cellular learning for tabular data with generalized sparse modern hopfield model](https://proceedings.mlr.press/v235/xu24l.html) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MAGICS-LAB/BiSHop) |
 | 2024 | SwitchTab | [Switchtab: Switched autoencoders are effective tabular learners](https://ojs.aaai.org/index.php/AAAI/article/view/29523) | [Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/TabularS3L) |
 | 2024 | ExcelFormer | [Can a deep learning model be a sure bet for tabular prediction?](https://dl.acm.org/doi/abs/10.1145/3637528.3671893) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/whatashot/excelformer) |
+| 2023 | Trompt | [Trompt: Towards a better deep neural network for tabular data](https://proceedings.mlr.press/v202/chen23c.html) | - |
 | 2021 | DNN2LR | [DNN2LR: Automatic Feature Crossing for Credit Scoring](https://arxiv.org/abs/2102.12036) | - |
 | 2021 | SDTR | [SDTR: Soft Decision Tree Regressor for Tabular Data](https://ieeexplore.ieee.org/document/9393908) | - |
 | 2020 | NODE | [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/pytorch_tabular) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Qwicen/node) |
@@ -95,6 +96,8 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2019 | DeepGBM | [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](https://dl.acm.org/doi/10.1145/3292500.3330858) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/motefly/DeepGBM) |
+| 2019 | TabNN | [TabNN: A Universal Neural Network Solution for Tabular Data](https://openreview.net/forum?id=r1eJssCqY7) | - |
 
 
 ## Trasformer based
