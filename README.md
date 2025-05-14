@@ -109,8 +109,10 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2022 | SAINTENS | [SAINTENS: Self-Attention and Intersample Attention Transformer for Digital Biomarker Development Using Tabular Healthcare Real World Data](https://pubmed.ncbi.nlm.nih.gov/35592984/) | - |
+| 2022 | SAINT | [SAINT: Improved neural networks for tabular data via row attention and contrastive pre-training](https://openreview.net/forum?id=FiyUTAy4sB8) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/somepago/saint) |
 | 2022 | GatedTabTransformer | [The GatedTabTransformer. An enhanced deep learning architecture for tabular modeling](https://arxiv.org/abs/2201.00199) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/radi-cho/GatedTabTransformer) |
-| 2021 | ARM-Net | [ARM-Net: Adaptive Relation Modeling Network for Structured Data](https://arxiv.org/abs/2107.01830) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://arxiv.org/abs/2107.01830) |
+| 2021 | ARM-Net | [ARM-Net: Adaptive Relation Modeling Network for Structured Data](https://arxiv.org/abs/2107.01830) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/nusdbsystem/ARM-Net) |
 | 2021 | TabNet | 
 | 2021 | Fair-TabNet | [Fairness in TabNet Model by Disentangled Representation for the Prediction of Hospital No-Show](https://arxiv.org/abs/2103.04048) | - |
 | 2021 | TabNet | [Tabnet: Attentive interpretable tabular learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dreamquark-ai/tabnet) |
