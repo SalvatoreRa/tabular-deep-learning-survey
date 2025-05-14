@@ -53,6 +53,7 @@
 | - | - | - | - |
 | 2024 | KANs 2.0 | [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kindxiaoming/pykan)  |
 | 2024 | KANs | [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kindxiaoming/pykan) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks) |
+| 2022 | GANDALF | [GANDALF: Gated Adaptive Network for Deep Automated Learning of Features](https://arxiv.org/abs/2207.08548) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/GATE) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/pytorch_tabular) |
 | 2016 | PNNs| [Product-based Neural Networks for User Response Prediction](https://arxiv.org/abs/1611.00144) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Atomu2014/product-nets) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/product-based-neural-networks-for-user) |
 
 ### MLP enhancements
@@ -66,7 +67,7 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
-| 2020 |      NODE      | [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Qwicen/node) |
+| 2020 |      NODE      | [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/pytorch_tabular) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Qwicen/node) |
 
 ### Partly differentiable
 
