@@ -130,6 +130,9 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2020 | TUTA | [TUTA: Tree-based Transformers for Generally Structured Table Pre-training](https://arxiv.org/abs/2010.12537) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/TUTA_table_understanding) |
+| 2020 | TaBERT | [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/facebookresearch/TaBERT) |
+
 
 ## Large language models
 
