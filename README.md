@@ -109,7 +109,11 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2025 | TabPFN v2 | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
+| 2024 | UniTabE | [UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science](https://openreview.net/forum?id=6LLho5X6xV) | |
 | 2024 | MambaTab | [MambaTab: A Plug-and-Play Model for Learning Tabular Data](https://arxiv.org/abs/2401.08867) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/atik-ahamed/mambatab) |
+| 2023 | TabPFN | [Tabpfn: A transformer that solves small tabular classification problems in a second](https://openreview.net/forum?id=cp5PvcI6w8_) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
+| 2023 | Xtab | [Xtab: Cross-table pretraining for tabular transformers](https://proceedings.mlr.press/v202/zhu23k.html) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/BingzhaoZhu/XTab) |
 | 2022 | LF-Transformer | [LF-Transformer: Latent Factorizer Transformer for Tabular Learning](https://ieeexplore.ieee.org/document/10401112) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kwangtekNa/LF-Transformer/) |
 | 2022 | TransTab| [Transtab: Learning transferable tabular transformers across tables](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1377f76686d56439a2bd7a91859972f5-Abstract-Conference.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://transtab.readthedocs.io/en/latest/) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/RyanWangZf/transtab) |
 | 2022 | SAINTENS | [SAINTENS: Self-Attention and Intersample Attention Transformer for Digital Biomarker Development Using Tabular Healthcare Real World Data](https://pubmed.ncbi.nlm.nih.gov/35592984/) | - |
