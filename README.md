@@ -54,14 +54,19 @@
 | 2024 | KANs 2.0 | [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kindxiaoming/pykan)  |
 | 2024 | KANs | [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kindxiaoming/pykan) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks) |
 | 2022 | GANDALF | [GANDALF: Gated Adaptive Network for Deep Automated Learning of Features](https://arxiv.org/abs/2207.08548) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/GATE) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/pytorch_tabular) |
+| 2022 |DANets| [Danets: Deep abstract networks for tabular data classification and regression](https://ojs.aaai.org/index.php/AAAI/article/view/20309) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/pytorch_tabular) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/WhatAShot/DANet) |
 | 2016 | PNNs| [Product-based Neural Networks for User Response Prediction](https://arxiv.org/abs/1611.00144) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Atomu2014/product-nets) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/product-based-neural-networks-for-user) |
+
+
 
 ### MLP enhancements
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
 | 2024 | sTabNet| [Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data](https://arxiv.org/abs/2410.17758v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/sTabNet)  |
-
+| 2024 | xNet | [Cauchy activation function and XNet](https://arxiv.org/abs/2409.19221) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/FAQ.md#large-language-models:~:text=What%20are%20(Comple)XNet%20or%20Xnet%3F)  |
+| 2021 | Regularized cocktail| [Simple Modifications to Improve Tabular Neural Networks](https://arxiv.org/abs/2108.03214) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jrfiedler/xynn)  |
+| 2021 | Regularized cocktail| [Muddling Label Regularization: Deep Learning for Tabular Datasets](https://arxiv.org/abs/2106.04462) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/anonymousNeurIPS2021submission5254/SupplementaryMaterial)  |
 
 ### Fully differentiable
 
