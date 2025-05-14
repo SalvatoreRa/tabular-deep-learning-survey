@@ -35,12 +35,14 @@
 | 2025 | Harmonic loss| [Harmonic Loss Trains Interpretable AI Models](https://arxiv.org/abs/2502.01628v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ches-001/audio-segmenter)  |
 | 2024 | sTabNet| [Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data](https://arxiv.org/abs/2410.17758v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/sTabNet)  |
 | 2022 | Regularized pretraining | [Revisiting Pretraining Objectives for Tabular Deep Learning](https://arxiv.org/abs/2207.03208) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/puhsu/tabular-dl-pretrain-objectives)  |
+| 2022 | LSPIN| [Locally Sparse Neural Networks for Tabular Biomedical Data](https://proceedings.mlr.press/v162/yang22i.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jcyang34/lspin) |
 | 2021 | Regularized tuned network| [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets)  |
 | 2021 | Regularized cocktail| [Simple Modifications to Improve Tabular Neural Networks](https://arxiv.org/abs/2108.03214) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jrfiedler/xynn)  |
 | 2021 | Regularized cocktail| [Muddling Label Regularization: Deep Learning for Tabular Datasets](https://arxiv.org/abs/2106.04462) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/anonymousNeurIPS2021submission5254/SupplementaryMaterial)  |
 | 2021 | LockOut| [Lockout: Sparse Regularization of Neural Networks](https://arxiv.org/abs/2107.07160) | - |
 | 2019 | Cancelout| [CancelOut: A Layer for Feature Selection in Deep Neural Networks](https://dl.acm.org/doi/10.1007/978-3-030-30484-3_6) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/unnir/CancelOut)  |
 | 2018 | STG| [Feature Selection using Stochastic Gates](https://arxiv.org/abs/1810.04247) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://yutaroyamada.com/stg/) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/runopti/stg) |
+| 2018 | RLNs | [Regularization learning networks: deep learning for tabular datasets](https://proceedings.neurips.cc/paper_files/paper/2018/hash/500e75a036dc2d7d2fec5da1b71d36cc-Abstract.html) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/irashavitt/regularization_learning_networks) |
 | 2017 | SNN| [Self-normalizing neural networks](https://proceedings.neurips.cc/paper_files/paper/2017/hash/5d44ee6f2c3f71b73125876103c8f6c4-Abstract.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://www.kaggle.com/code/gulshanmishra/self-normalizing-neural-networks) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/bioinf-jku/SNNs) |
 
 
@@ -65,6 +67,7 @@
 | - | - | - | - |
 | 2024 | sTabNet| [Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data](https://arxiv.org/abs/2410.17758v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/sTabNet)  |
 | 2024 | xNet | [Cauchy activation function and XNet](https://arxiv.org/abs/2409.19221) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/FAQ.md#large-language-models:~:text=What%20are%20(Comple)XNet%20or%20Xnet%3F)  |
+| 2024 | better by default| [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dholzmueller/pytabkit)  |
 | 2021 | Regularized cocktail| [Simple Modifications to Improve Tabular Neural Networks](https://arxiv.org/abs/2108.03214) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jrfiedler/xynn)  |
 | 2021 | Regularized cocktail| [Muddling Label Regularization: Deep Learning for Tabular Datasets](https://arxiv.org/abs/2106.04462) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/anonymousNeurIPS2021submission5254/SupplementaryMaterial)  |
 
