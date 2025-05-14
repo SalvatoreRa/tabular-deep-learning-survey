@@ -81,6 +81,7 @@
 | 2023 | Trompt | [Trompt: Towards a better deep neural network for tabular data](https://proceedings.mlr.press/v202/chen23c.html) | - |
 | 2021 | DNN2LR | [DNN2LR: Automatic Feature Crossing for Credit Scoring](https://arxiv.org/abs/2102.12036) | - |
 | 2021 | SDTR | [SDTR: Soft Decision Tree Regressor for Tabular Data](https://ieeexplore.ieee.org/document/9393908) | - |
+| 2021 | TabNet | [Tabnet: Attentive interpretable tabular learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dreamquark-ai/tabnet) |
 | 2020 | NODE | [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/pytorch_tabular) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Qwicen/node) |
 | 2020 | DCN V2 | [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems](https://arxiv.org/abs/2008.13535) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/dcn-m-improved-deep-cross-network-for-feature) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/tensorflow/recommenders/blob/v0.5.1/tensorflow_recommenders/layers/feature_interaction/dcn.py) |
 | 2020 | NON | [Network On Network for Tabular Data Classification in Real-world Applications](https://arxiv.org/abs/2005.10114) | - |
@@ -108,6 +109,8 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2021 | Fair-TabNet | [Fairness in TabNet Model by Disentangled Representation for the Prediction of Hospital No-Show](https://arxiv.org/abs/2103.04048) | - |
+| 2021 | TabNet | [Tabnet: Attentive interpretable tabular learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dreamquark-ai/tabnet) |
 
 ### Data adaptation
 
