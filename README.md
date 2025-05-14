@@ -96,6 +96,8 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2023 | TabR | [TabR: Tabular Deep Learning Meets Nearest Neighbors in 2023](https://arxiv.org/abs/2307.14338) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabular-dl-tabr) |
+| 2021 | BGNN | [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://arxiv.org/abs/2101.08543) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/nd7141/bgnn) |
 | 2019 | DeepGBM | [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](https://dl.acm.org/doi/10.1145/3292500.3330858) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/motefly/DeepGBM) |
 | 2019 | TabNN | [TabNN: A Universal Neural Network Solution for Tabular Data](https://openreview.net/forum?id=r1eJssCqY7) | - |
 
