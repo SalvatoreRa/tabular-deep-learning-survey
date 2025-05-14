@@ -140,3 +140,5 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2024 | Table meets LLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://arxiv.org/abs/2305.13062v5) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Y-Sui/Table-meets-LLM) |
+| 2022 | TabLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/abs/2210.10723) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/clinicalml/TabLLM) |
