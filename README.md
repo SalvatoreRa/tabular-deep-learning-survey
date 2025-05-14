@@ -130,6 +130,8 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2021 | MATE | [MATE: Multi-view Attention for Table Transformer Efficiency](https://arxiv.org/abs/2109.04312) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/google-research/tapas) |
+| 2020 | TAPAS | [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/abs/2004.02349) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/google-research/tapas) |
 | 2020 | TUTA | [TUTA: Tree-based Transformers for Generally Structured Table Pre-training](https://arxiv.org/abs/2010.12537) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/TUTA_table_understanding) |
 | 2020 | TaBERT | [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/facebookresearch/TaBERT) |
 
