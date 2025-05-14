@@ -109,11 +109,13 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2022 | LF-Transformer | [LF-Transformer: Latent Factorizer Transformer for Tabular Learning](https://ieeexplore.ieee.org/document/10401112) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kwangtekNa/LF-Transformer/) |
+| 2022 | TransTab| [Transtab: Learning transferable tabular transformers across tables](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1377f76686d56439a2bd7a91859972f5-Abstract-Conference.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://transtab.readthedocs.io/en/latest/) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/RyanWangZf/transtab) |
 | 2022 | SAINTENS | [SAINTENS: Self-Attention and Intersample Attention Transformer for Digital Biomarker Development Using Tabular Healthcare Real World Data](https://pubmed.ncbi.nlm.nih.gov/35592984/) | - |
 | 2022 | SAINT | [SAINT: Improved neural networks for tabular data via row attention and contrastive pre-training](https://openreview.net/forum?id=FiyUTAy4sB8) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/somepago/saint) |
 | 2022 | GatedTabTransformer | [The GatedTabTransformer. An enhanced deep learning architecture for tabular modeling](https://arxiv.org/abs/2201.00199) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/radi-cho/GatedTabTransformer) |
 | 2021 | ARM-Net | [ARM-Net: Adaptive Relation Modeling Network for Structured Data](https://arxiv.org/abs/2107.01830) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/nusdbsystem/ARM-Net) |
-| 2021 | TabNet | 
+| 2021 | FT-Transformer | [Revisiting deep learning models for tabular data](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9d86d83f925f2149e9edb0ac3b49229c-Abstract.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/rtdl) |
 | 2021 | Fair-TabNet | [Fairness in TabNet Model by Disentangled Representation for the Prediction of Hospital No-Show](https://arxiv.org/abs/2103.04048) | - |
 | 2021 | TabNet | [Tabnet: Attentive interpretable tabular learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dreamquark-ai/tabnet) |
 | 2020 | TabTransformer | [Tabtransformer: Tabular data modeling using contextual embeddings](https://arxiv.org/abs/2012.06678) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/lucidrains/tab-transformer-pytorch) |
