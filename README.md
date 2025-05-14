@@ -75,7 +75,10 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
-| 2020 |      NODE      | [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/pytorch_tabular) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Qwicen/node) |
+| 2021 | SDTR | [SDTR: Soft Decision Tree Regressor for Tabular Data](https://ieeexplore.ieee.org/document/9393908) | - |
+| 2020 | NODE | [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/manujosephv/pytorch_tabular) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Qwicen/node) |
+| 2020 | DNF-Net | [DNF-Net: A Neural Architecture for Tabular Data](https://arxiv.org/abs/2006.06465) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/nini-lxz/DNF-Net) |
+| 2017 |      SDTS      | [Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/distilling-a-neural-network-into-a-soft)  |
 
 ### Partly differentiable
 
