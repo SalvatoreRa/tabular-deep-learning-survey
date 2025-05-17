@@ -151,6 +151,7 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2024 | SERVAL | [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/abs/2403.01570v2) | - |
 | 2024 | Table meets LLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://arxiv.org/abs/2305.13062v5) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Y-Sui/Table-meets-LLM) |
 | 2023 | TableGPT | [TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/abs/2307.08674) | - |
 | 2023 | TableLlama | [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://osu-nlp-group.github.io/TableLlama/)  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://huggingface.co/osunlp/TableLlama) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/OSU-NLP-Group/TableLlama)|
@@ -161,12 +162,15 @@
 | 2023 | TabFMs | [Towards Foundation Models for Learning on Tabular Data](https://openreview.net/forum?id=hz2zhaZPXm) |  - |
 | 2023 | Unipredict | [UniPredict: Large Language Models are Universal Tabular Classifiers](https://arxiv.org/abs/2310.03266) |  - |
 | 2023 | serializeLLM | [Towards Better Serialization of Tabular Data for Few-shot Classification with Large Language Models](https://arxiv.org/abs/2312.12464) |  - |
+| 2023 | FinPT | [FinPT: Financial Risk Prediction with Profile Tuning on Pretrained Foundation Models](https://arxiv.org/abs/2308.00065) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yuweiyin/finpt) |
 | 2023 | DATER | [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alibabaresearch/damo-convai) |
 | 2023 | DocMath-Eval | [DocMath-Eval: Evaluating Math Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents](https://arxiv.org/abs/2311.09805) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yale-nlp/docmath-eval) |
 | 2023 | TableLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/abs/2312.16702) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Leolty/tablellm) |
 | 2023 | MediTab | [MediTab: Scaling Medical Tabular Data Predictors via Data Consolidation, Enrichment, and Refinement](https://arxiv.org/abs/2305.12081) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ryanwangzf/meditab) |
+| 2023 | ZeroTS | [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ngruver/llmtime) |
 | 2022 | Tabular representation | [Tabular Representation, Noisy Operators, and Impacts on Table Structure Understanding Tasks in LLMs](https://arxiv.org/abs/2310.10358) | - |
 | 2022 | TabLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/abs/2210.10723) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/clinicalml/TabLLM) |
 | 2022 | LIFT | [LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks](https://arxiv.org/abs/2206.06565) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/uw-madison-lee-lab/languageinterfacedfinetuning) |
 | 2022 | OmniTab | [OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering](https://arxiv.org/abs/2207.03637) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jzbjyb/omnitab) |
+| 2022 | PromptCast | [PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting](https://arxiv.org/abs/2210.08964) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/haounsw/pisa) |
 | 2022 | FEVEROUS | [FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information](https://arxiv.org/abs/2106.05707) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Raldir/FEVEROUS) |
