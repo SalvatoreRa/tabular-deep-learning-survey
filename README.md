@@ -152,4 +152,7 @@
 | Date | Name | Paper | Code | 
 | - | - | - | - |
 | 2024 | Table meets LLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://arxiv.org/abs/2305.13062v5) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Y-Sui/Table-meets-LLM) |
+| 2023 | DATER | [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alibabaresearch/damo-convai) |
+| 2023 | TableLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/abs/2312.16702) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Leolty/tablellm) |
+| 2022 | Tabular representation | [Tabular Representation, Noisy Operators, and Impacts on Table Structure Understanding Tasks in LLMs](https://arxiv.org/abs/2310.10358) | - |
 | 2022 | TabLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/abs/2210.10723) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/clinicalml/TabLLM) |
