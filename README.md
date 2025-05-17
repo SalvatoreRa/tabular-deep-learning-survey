@@ -141,6 +141,9 @@
 | 2020 | TUTA | [TUTA: Tree-based Transformers for Generally Structured Table Pre-training](https://arxiv.org/abs/2010.12537) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/TUTA_table_understanding) |
 | 2020 | TaBERT | [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/facebookresearch/TaBERT) |
 | 2020 | TURL | [TURL: Table Understanding through Representation Learning](https://arxiv.org/abs/2006.14806) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/sunlab-osu/TURL) |
+| 2020 | TableGPT | [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://aclanthology.org/2020.coling-main.179/) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/syw1996/TableGPT) |
+| 2020 | ToTTo | [TToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/google-research-datasets/ToTTo) |
+| 2019 | TabFact | [TabFact: A Large-scale Dataset for Table-based Fact Verification](https://arxiv.org/abs/1909.02164) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wenhuchen/Table-Fact-Checking) |
 
 ## Large language models
 
