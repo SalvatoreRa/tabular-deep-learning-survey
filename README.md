@@ -156,6 +156,11 @@
 | 2023 | TableLlama | [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://osu-nlp-group.github.io/TableLlama/)  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://huggingface.co/osunlp/TableLlama) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/OSU-NLP-Group/TableLlama)|
 | 2023 | UniTabPT | [Bridge the Gap between Language models and Tabular Understanding](https://arxiv.org/abs/2302.09302) | - |
 | 2023 | UTP | [Testing the Limits of Unified Sequence to Sequence LLM Pretraining on Diverse Table Data Tasks](https://arxiv.org/abs/2310.00789) | - |
+| 2023 | TABLET | [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/abs/2304.13188) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/tablet-learning-from-instructions-for-tabular) |
+| 2023 | Summary boost | [Language models are weak learners](https://arxiv.org/abs/2306.14101) |  - |
+| 2023 | TabFMs | [Towards Foundation Models for Learning on Tabular Data](https://openreview.net/forum?id=hz2zhaZPXm) |  - |
+| 2023 | Unipredict | [UniPredict: Large Language Models are Universal Tabular Classifiers](https://arxiv.org/abs/2310.03266) |  - |
+| 2023 | serializeLLM | [Towards Better Serialization of Tabular Data for Few-shot Classification with Large Language Models](https://arxiv.org/abs/2312.12464) |  - |
 | 2023 | DATER | [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alibabaresearch/damo-convai) |
 | 2023 | DocMath-Eval | [DocMath-Eval: Evaluating Math Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents](https://arxiv.org/abs/2311.09805) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yale-nlp/docmath-eval) |
 | 2023 | TableLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/abs/2312.16702) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Leolty/tablellm) |
