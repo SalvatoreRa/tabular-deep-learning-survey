@@ -223,6 +223,16 @@
 | 2012 | MissForest  | [MissForest—non-parametric missing value imputation for mixed-type data](https://academic.oup.com/bioinformatics/article/28/1/112/219101) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/stekhoven/missForest) |
 | 2011 | MICE  | [Multiple imputation by chained equations: what is it and how does it work?](https://pubmed.ncbi.nlm.nih.gov/21499542/) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amices/mice) |
 
+## Table data generation
+
+| Date | Name | Paper | Code | 
+| - | - | - | - |
+| 2023 | TabDDPM  | [Tabddpm: Modelling tabular data with diffusion models](https://arxiv.org/abs/2210.04018) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tab-ddpm) |
+| 2023 | CoDi  | [Codi: Co-evolving contrastive diffusion models for mixed-type tabular synthesis](https://arxiv.org/abs/2304.12654) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/chaejeonglee/codi) |
+| 2023 | STaSy  | [STaSy: Score-based Tabular data Synthesis](https://arxiv.org/abs/2210.04018) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/JayoungKim408/STaSy) |
+| 2023 | MissDiff   | [MissDiff: Training Diffusion Models on Tabular Data with Missing Values](https://arxiv.org/abs/2307.00467) | - |
+| 2022 | SOS  | [Sos: Score-based oversampling for tabular data](https://arxiv.org/abs/2206.08555) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jayoungkim408/sos) |
+
 
 ## Awesome GitHub Repositories
 
@@ -234,3 +244,5 @@
 * [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 * [Research on Tabular Deep Learning](https://github.com/yandex-research/rtdl)
 * [Deep learning for tabular data](https://github.com/lmassaron/deep_learning_for_tabular_data)
+
+
