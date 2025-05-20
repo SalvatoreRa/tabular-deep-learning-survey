@@ -151,8 +151,12 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2025 | Table-Critic | [Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning](https://arxiv.org/abs/2502.11799v2) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Peiying-Yu/Table-Critic) |
 | 2024 | SERVAL | [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/abs/2403.01570v2) | - |
 | 2024 | Table meets LLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://arxiv.org/abs/2305.13062v5) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Y-Sui/Table-meets-LLM) |
+| 2024 | PoTable | [PoTable: Towards Systematic Thinking via Stage-oriented Plan-then-Execute Reasoning on Tables](https://arxiv.org/abs/2412.04272) | - |
+| 2024 | TART | [TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning](https://arxiv.org/abs/2409.11724) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/xinyuanlu00/tart) |
+| 2024 | TaPERA | [TaPERA: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-based Reasoning: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-based Reasoning](https://aclanthology.org/2024.acl-long.692/) | - |
 | 2023 | TableGPT | [TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/abs/2307.08674) | - |
 | 2023 | TableLlama | [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://osu-nlp-group.github.io/TableLlama/)  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://huggingface.co/osunlp/TableLlama) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/OSU-NLP-Group/TableLlama)|
 | 2023 | UniTabPT | [Bridge the Gap between Language models and Tabular Understanding](https://arxiv.org/abs/2302.09302) | - |
