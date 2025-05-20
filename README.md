@@ -200,6 +200,7 @@
 | 2025 | TabDiff  | [TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation](https://arxiv.org/abs/2410.20626) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MinkaiXu/TabDiff) |
 | 2025 | DeepIFSAC  | [DeepIFSAC: Deep Imputation of Missing Values Using Feature and Sample Attention within Contrastive Framework](https://arxiv.org/abs/2501.10910v3) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mdsamad001/DeepIFSAC) |
 | 2024 | demiss-vae  | [Improving Variational Autoencoder Estimation from Incomplete Data with Mixture Variational Families](https://arxiv.org/abs/2403.03069) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vsimkus/demiss-vae) |
+| 2024 | NewImp | [Rethinking the Diffusion Models for Missing Data Imputation: A Gradient Flow Perspective](https://proceedings.neurips.cc/paper_files/paper/2024/hash/cb1ba6a42814bf83974ed45ffdb72efa-Abstract-Conference.html) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/JustusvLiebig/NewImp) |
 | 2024 | SimpDM   | [Improving Variational Autoencoder Estimation from Incomplete Data with Mixture Variational Families](https://arxiv.org/abs/2407.18013) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yixinliu233/simpdm) |
 | 2024 | DiffPuter  | [Unleashing the Potential of Diffusion Models for Incomplete Data Imputation](https://arxiv.org/abs/2405.20690) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vsimkus/demiss-vae) |
 | 2024 | MTabGen  | [Diffusion Models for Tabular Data Imputation and Synthetic Data Generation](https://arxiv.org/abs/2407.02549) | - |
@@ -226,3 +227,4 @@
 ## Awesome GitHub Repositories
 
 * [Awesome Diffusion Models For Tabular Data](https://github.com/Diffusion-Model-Leiden/awesome-diffusion-models-for-tabular-data?tab=readme-ov-file)
+* [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs)
