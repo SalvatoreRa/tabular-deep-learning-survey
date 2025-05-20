@@ -247,6 +247,25 @@
 | 2022 | SOS  | [Sos: Score-based oversampling for tabular data](https://arxiv.org/abs/2206.08555) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jayoungkim408/sos) |
 
 
+## Other interesting surveys
+
+**2024**
+
+* [Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution](https://arxiv.org/abs/2408.10548)
+* [Large Language Model for Table Processing: A Survey](https://arxiv.org/abs/2402.05121)
+* [A Survey of Table Reasoning with Large Language Models](https://arxiv.org/abs/2402.08259)
+* [Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey](https://arxiv.org/abs/2402.17944)
+
+**2023**
+
+* [Transformers for Tabular Data Representation: A Survey of Models and Applications](https://aclanthology.org/2023.tacl-1.14/)
+
+
+**2022**
+
+* [Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks](https://arxiv.org/abs/2201.09745)
+* []()
+
 ## Awesome GitHub Repositories
 
 * [Awesome Diffusion Models For Tabular Data](https://github.com/Diffusion-Model-Leiden/awesome-diffusion-models-for-tabular-data?tab=readme-ov-file)
