@@ -233,3 +233,4 @@
 * [Awesome Tabular Data Augmentation](https://github.com/SuDIS-ZJU/awesome-tabular-data-augmentation)
 * [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 * [Research on Tabular Deep Learning](https://github.com/yandex-research/rtdl)
+* [Deep learning for tabular data](https://github.com/lmassaron/deep_learning_for_tabular_data)
