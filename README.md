@@ -201,6 +201,9 @@
 | 2024 | demiss-vae  | [Improving Variational Autoencoder Estimation from Incomplete Data with Mixture Variational Families](https://arxiv.org/abs/2403.03069) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vsimkus/demiss-vae) |
 | 2022 | AimNet   | [Attention-based Learning for Missing Data Imputation in HoloClean](https://proceedings.mlsys.org/paper_files/paper/2020/hash/023560744aae353c03f7ae787f2998dd-Abstract.html) | - |
 | 2022 | B-VAEs  | [Leveraging variational autoencoders for multiple data imputation](https://arxiv.org/abs/2209.15321) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/roskamsh/BetaVAEMultImpute) |
+| 2021 | NIMIWAE  | [Unsupervised Imputation of Non-ignorably Missing Data Using Importance-Weighted Autoencoders](https://arxiv.org/abs/2101.07357) |  - |
+| 2021 | SGAIN  | [SGAIN, WSGAIN-CP and WSGAIN-GP: Novel GAN Methods for Missing Data Imputation](https://www.iccs-meeting.org/archive/iccs2021/papers/127420100.pdf) |  - |
+| 2021 | PSMVAE  | [Deep Generative Pattern-Set Mixture Models for Nonignorable Missingness](https://arxiv.org/abs/2103.03532) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/sghalebikesabi/PSMVAE) |
 | 2019 | DataWig  | [DataWig: Missing Value Imputation for Tables](https://jmlr.org/papers/v20/18-753.html) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/datawig) |
 | 2019 | PPCA  | [Estimation and imputation in Probabilistic Principal Component Analysis with Missing Not At Random data](https://arxiv.org/abs/1906.02493) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AudeSportisse/PPCA_MNAR) |
 | 2019 | GP-VAE  | [GP-VAE: Deep Probabilistic Time Series Imputation](https://arxiv.org/abs/1907.04155) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ratschlab/GP-VAE) |
