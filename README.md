@@ -228,6 +228,8 @@
 | Date | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | CDTD  | [Continuous Diffusion for Mixed-Type Tabular Data](https://arxiv.org/abs/2312.10431v4) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/muellermarkus/cdtd) |
+| 2025 | TabDiff  | [TabDiff: a Unified Diffusion Model for Multi-Modal Tabular Data Generation](https://arxiv.org/abs/2410.20626) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MinkaiXu/TabDiff) |
+| 2024 | EntTabDiff  | [Entity-based Financial Tabular Data Synthesis with Diffusion Models](https://doi.org/10.1145/3677052.3698625) | - |
 | 2024 | TabSyn  | [Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space](https://arxiv.org/abs/2310.09656) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amazon-science/tabsyn) |
 | 2024 | Forest-Diffusion  | [Generating and imputing tabular data via diffusion and flow-based gradient-boosted trees](https://arxiv.org/abs/2309.09968) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SamsungSAILMontreal/ForestDiffusion) |
 | 2023 | TabDDPM  | [Tabddpm: Modelling tabular data with diffusion models](https://arxiv.org/abs/2210.04018) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tab-ddpm) |
