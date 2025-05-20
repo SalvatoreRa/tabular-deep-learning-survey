@@ -228,3 +228,8 @@
 
 * [Awesome Diffusion Models For Tabular Data](https://github.com/Diffusion-Model-Leiden/awesome-diffusion-models-for-tabular-data?tab=readme-ov-file)
 * [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs)
+* [Awesome-LLM-Tabular](https://github.com/johnnyhwu/Awesome-LLM-Tabular)
+* [Large Language Models on Tabular Data -- A Survey](https://github.com/tanfiona/LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation)
+* [Awesome Tabular Data Augmentation](https://github.com/SuDIS-ZJU/awesome-tabular-data-augmentation)
+* [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+* [Research on Tabular Deep Learning](https://github.com/yandex-research/rtdl)
