@@ -198,6 +198,7 @@
 | Date | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | DeepIFSAC  | [DeepIFSAC: Deep Imputation of Missing Values Using Feature and Sample Attention within Contrastive Framework](https://arxiv.org/abs/2501.10910v3) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mdsamad001/DeepIFSAC) |
+| 2024 | demiss-vae  | [Improving Variational Autoencoder Estimation from Incomplete Data with Mixture Variational Families](https://arxiv.org/abs/2403.03069) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vsimkus/demiss-vae) |
 | 2022 | AimNet   | [Attention-based Learning for Missing Data Imputation in HoloClean](https://proceedings.mlsys.org/paper_files/paper/2020/hash/023560744aae353c03f7ae787f2998dd-Abstract.html) | - |
 | 2022 | B-VAEs  | [Leveraging variational autoencoders for multiple data imputation](https://arxiv.org/abs/2209.15321) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/roskamsh/BetaVAEMultImpute) |
 | 2019 | DataWig  | [DataWig: Missing Value Imputation for Tables](https://jmlr.org/papers/v20/18-753.html) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/datawig) |
@@ -205,5 +206,7 @@
 | 2019 | GP-VAE  | [GP-VAE: Deep Probabilistic Time Series Imputation](https://arxiv.org/abs/1907.04155) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ratschlab/GP-VAE) |
 | 2018 | MIDA  | [MIDA: Multiple Imputation Using Denoising Autoencoders](https://link.springer.com/chapter/10.1007/978-3-319-93040-4_21) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Oracen-zz/MIDAS) |
 | 2018 | GAIN  | [GAIN: Missing Data Imputation using Generative Adversarial Nets](https://arxiv.org/abs/1806.02920) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jsyoon0823/GAIN) |
+| 2018 | HI-VAE  | [Handling Incomplete Heterogeneous Data using VAEs](https://arxiv.org/abs/1807.03653) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/probabilistic-learning/HI-VAE) |
+| 2018 | DeepImpute  | ["Deep" Learning for Missing Value Imputationin Tables with Non-Numerical Data](https://dl.acm.org/doi/10.1145/3269206.3272005) |  - |
 | 2012 | MissForest  | [MissForest—non-parametric missing value imputation for mixed-type data](https://academic.oup.com/bioinformatics/article/28/1/112/219101) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/stekhoven/missForest) |
 | 2011 | MICE  | [Multiple imputation by chained equations: what is it and how does it work?](https://pubmed.ncbi.nlm.nih.gov/21499542/) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amices/mice) |
