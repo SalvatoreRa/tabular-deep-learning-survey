@@ -191,3 +191,11 @@
 | 2022 | Grinsztajn - Benchmark | [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/LeoGrin/tabular-benchmark) |
 | 2021 | RTDL | [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/rtdl-revisiting-models) |
 | 2021 | WellTunedSimpleNets | [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets) |
+
+
+## Tabular data imputation
+
+| Date | Name | Paper | Code | 
+| - | - | - | - |
+| 2012 | MissForest  | [MissForest—non-parametric missing value imputation for mixed-type data](https://academic.oup.com/bioinformatics/article/28/1/112/219101) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/stekhoven/missForest) |
+| 2011 | MICE  | [Multiple imputation by chained equations: what is it and how does it work?](https://pubmed.ncbi.nlm.nih.gov/21499542/) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amices/mice) |
