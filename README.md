@@ -197,11 +197,17 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2025 | TabDiff  | [TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation](https://arxiv.org/abs/2410.20626) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MinkaiXu/TabDiff) |
 | 2025 | DeepIFSAC  | [DeepIFSAC: Deep Imputation of Missing Values Using Feature and Sample Attention within Contrastive Framework](https://arxiv.org/abs/2501.10910v3) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mdsamad001/DeepIFSAC) |
 | 2024 | demiss-vae  | [Improving Variational Autoencoder Estimation from Incomplete Data with Mixture Variational Families](https://arxiv.org/abs/2403.03069) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vsimkus/demiss-vae) |
+| 2024 | SimpDM   | [Improving Variational Autoencoder Estimation from Incomplete Data with Mixture Variational Families](https://arxiv.org/abs/2407.18013) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yixinliu233/simpdm) |
 | 2024 | DiffPuter  | [Unleashing the Potential of Diffusion Models for Incomplete Data Imputation](https://arxiv.org/abs/2405.20690) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vsimkus/demiss-vae) |
+| 2024 | MTabGen  | [Diffusion Models for Tabular Data Imputation and Synthetic Data Generation](https://arxiv.org/abs/2407.02549) | - |
+| 2023 | Forest-Diffusion   | [Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees](https://arxiv.org/abs/2309.099687) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SamsungSAILMontreal/ForestDiffusion) [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/atong01/conditional-flow-matching) |
+| 2023 | MissDiff   | [MissDiff: Training Diffusion Models on Tabular Data with Missing Values](https://arxiv.org/abs/2307.00467) | - |
 | 2023 | WGAIN-GP   | [Enhanced data imputation framework for bridge health monitoring using Wasserstein generative adversarial networks with gradient penalty](https://www.sciencedirect.com/science/article/abs/pii/S2352012423013656) | - |
 | 2022 | AimNet   | [Attention-based Learning for Missing Data Imputation in HoloClean](https://proceedings.mlsys.org/paper_files/paper/2020/hash/023560744aae353c03f7ae787f2998dd-Abstract.html) | - |
+| 2022 | TabCSDI  | [Diffusion models for missing value imputation in tabular data](https://arxiv.org/abs/2210.17128) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/pfnet-research/TabCSDI) |
 | 2022 | B-VAEs  | [Leveraging variational autoencoders for multiple data imputation](https://arxiv.org/abs/2209.15321) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/roskamsh/BetaVAEMultImpute) |
 | 2021 | NIMIWAE  | [Unsupervised Imputation of Non-ignorably Missing Data Using Importance-Weighted Autoencoders](https://arxiv.org/abs/2101.07357) |  - |
 | 2021 | SGAIN  | [SGAIN, WSGAIN-CP and WSGAIN-GP: Novel GAN Methods for Missing Data Imputation](https://www.iccs-meeting.org/archive/iccs2021/papers/127420100.pdf) |  - |
