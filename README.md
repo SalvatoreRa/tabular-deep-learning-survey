@@ -199,6 +199,8 @@
 | - | - | - | - |
 | 2025 | DeepIFSAC  | [DeepIFSAC: Deep Imputation of Missing Values Using Feature and Sample Attention within Contrastive Framework](https://arxiv.org/abs/2501.10910v3) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mdsamad001/DeepIFSAC) |
 | 2024 | demiss-vae  | [Improving Variational Autoencoder Estimation from Incomplete Data with Mixture Variational Families](https://arxiv.org/abs/2403.03069) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vsimkus/demiss-vae) |
+| 2024 | DiffPuter  | [Unleashing the Potential of Diffusion Models for Incomplete Data Imputation](https://arxiv.org/abs/2405.20690) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vsimkus/demiss-vae) |
+| 2023 | WGAIN-GP   | [Enhanced data imputation framework for bridge health monitoring using Wasserstein generative adversarial networks with gradient penalty](https://www.sciencedirect.com/science/article/abs/pii/S2352012423013656) | - |
 | 2022 | AimNet   | [Attention-based Learning for Missing Data Imputation in HoloClean](https://proceedings.mlsys.org/paper_files/paper/2020/hash/023560744aae353c03f7ae787f2998dd-Abstract.html) | - |
 | 2022 | B-VAEs  | [Leveraging variational autoencoders for multiple data imputation](https://arxiv.org/abs/2209.15321) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/roskamsh/BetaVAEMultImpute) |
 | 2021 | NIMIWAE  | [Unsupervised Imputation of Non-ignorably Missing Data Using Importance-Weighted Autoencoders](https://arxiv.org/abs/2101.07357) |  - |
@@ -213,3 +215,8 @@
 | 2018 | DeepImpute  | ["Deep" Learning for Missing Value Imputationin Tables with Non-Numerical Data](https://dl.acm.org/doi/10.1145/3269206.3272005) |  - |
 | 2012 | MissForest  | [MissForest—non-parametric missing value imputation for mixed-type data](https://academic.oup.com/bioinformatics/article/28/1/112/219101) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/stekhoven/missForest) |
 | 2011 | MICE  | [Multiple imputation by chained equations: what is it and how does it work?](https://pubmed.ncbi.nlm.nih.gov/21499542/) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amices/mice) |
+
+
+## Awesome GitHub Repositories
+
+* [Awesome Diffusion Models For Tabular Data](https://github.com/Diffusion-Model-Leiden/awesome-diffusion-models-for-tabular-data?tab=readme-ov-file)
