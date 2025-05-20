@@ -197,5 +197,9 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| 2025 | DeepIFSAC  | [DeepIFSAC: Deep Imputation of Missing Values Using Feature and Sample Attention within Contrastive Framework](https://arxiv.org/abs/2501.10910v3) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mdsamad001/DeepIFSAC) |
+| 2019 | DataWig  | [DataWig: Missing Value Imputation for Tables](https://jmlr.org/papers/v20/18-753.html) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/datawig) |
+| 2018 | MIDA  | [MIDA: Multiple Imputation Using Denoising Autoencoders](https://link.springer.com/chapter/10.1007/978-3-319-93040-4_21) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Oracen-zz/MIDAS) |
+| 2018 | GAIN  | [GAIN: Missing Data Imputation using Generative Adversarial Nets](https://arxiv.org/abs/1806.02920) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jsyoon0823/GAIN) |
 | 2012 | MissForest  | [MissForest—non-parametric missing value imputation for mixed-type data](https://academic.oup.com/bioinformatics/article/28/1/112/219101) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/stekhoven/missForest) |
 | 2011 | MICE  | [Multiple imputation by chained equations: what is it and how does it work?](https://pubmed.ncbi.nlm.nih.gov/21499542/) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amices/mice) |
