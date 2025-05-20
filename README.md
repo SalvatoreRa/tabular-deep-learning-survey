@@ -227,8 +227,12 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
+| CDTD | TabDDPM  | [Continuous Diffusion for Mixed-Type Tabular Data](https://arxiv.org/abs/2312.10431v4) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/muellermarkus/cdtd) |
 | 2023 | TabDDPM  | [Tabddpm: Modelling tabular data with diffusion models](https://arxiv.org/abs/2210.04018) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tab-ddpm) |
+| 2023 | FinDiff  | [Findiff: Diffusion models for financial tabular data generation](https://arxiv.org/abs/2309.01472) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/sattarov/FinDiff) |
+| 2023 | DPM-EHR  | [Synthetic health-related longitudinal data with mixed-type variables generated using diffusion models](https://arxiv.org/abs/2303.12281) |  - |
 | 2023 | CoDi  | [Codi: Co-evolving contrastive diffusion models for mixed-type tabular synthesis](https://arxiv.org/abs/2304.12654) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/chaejeonglee/codi) |
+| 2023 | AutoDiff  | [AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing](https://arxiv.org/abs/2310.15479) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ucla-trustworthy-ai-lab/autodiffusion) |
 | 2023 | STaSy  | [STaSy: Score-based Tabular data Synthesis](https://arxiv.org/abs/2210.04018) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/JayoungKim408/STaSy) |
 | 2023 | MissDiff   | [MissDiff: Training Diffusion Models on Tabular Data with Missing Values](https://arxiv.org/abs/2307.00467) | - |
 | 2022 | SOS  | [Sos: Score-based oversampling for tabular data](https://arxiv.org/abs/2206.08555) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jayoungkim408/sos) |
