@@ -201,6 +201,7 @@
 | 2022 | AimNet   | [Attention-based Learning for Missing Data Imputation in HoloClean](https://proceedings.mlsys.org/paper_files/paper/2020/hash/023560744aae353c03f7ae787f2998dd-Abstract.html) | - |
 | 2022 | B-VAEs  | [Leveraging variational autoencoders for multiple data imputation](https://arxiv.org/abs/2209.15321) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/roskamsh/BetaVAEMultImpute) |
 | 2019 | DataWig  | [DataWig: Missing Value Imputation for Tables](https://jmlr.org/papers/v20/18-753.html) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/datawig) |
+| 2019 | PPCA  | [Estimation and imputation in Probabilistic Principal Component Analysis with Missing Not At Random data](https://arxiv.org/abs/1906.02493) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AudeSportisse/PPCA_MNAR) |
 | 2019 | GP-VAE  | [GP-VAE: Deep Probabilistic Time Series Imputation](https://arxiv.org/abs/1907.04155) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ratschlab/GP-VAE) |
 | 2018 | MIDA  | [MIDA: Multiple Imputation Using Denoising Autoencoders](https://link.springer.com/chapter/10.1007/978-3-319-93040-4_21) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Oracen-zz/MIDAS) |
 | 2018 | GAIN  | [GAIN: Missing Data Imputation using Generative Adversarial Nets](https://arxiv.org/abs/1806.02920) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jsyoon0823/GAIN) |
