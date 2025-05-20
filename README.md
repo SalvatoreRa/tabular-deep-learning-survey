@@ -180,7 +180,6 @@
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
-| 2025 | MLE-Bench | [MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/openai/mle-bench) |
 | 2025 | TabReD  | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabred) |
 | 2024 | Data-Centric Benchmark | [A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data](https://arxiv.org/abs/2407.02112) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/atschalz/dc_tabeval) |
 | 2024 | Better-by-Default  | [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dholzmueller/pytabkit) |
