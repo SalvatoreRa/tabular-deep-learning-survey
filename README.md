@@ -19,12 +19,16 @@
         * [Data adaptation](#Data-adaptation)
     * [Large language models](#Large-language-models)
     * [Benchmark and comparative studies](#Benchmark-and-comparative-studies)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [Tabular data imputation](#Tabular-data-imputation)
+* [Tabular data generation](#Tabular-data-generation)
+* [Resources](#Resources)
+    * [Other interesting surveys](#Other-interesting-surveys)
+    * [Awesome GitHub Repositories](#Awesome-GitHub-Repositories)
+    * [Tabular data libraries](#Tabular-data-libraries)
+    * [Tutorials on tabular data](#Tutorials-on-tabular-data)
+    * [Free courses](#Free-courses)
+    * [Books](#Books)
+
 
 # Background
 
@@ -314,7 +318,7 @@
 **2022**
 
 * [Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks](https://arxiv.org/abs/2201.09745)
-* []()
+
 
 ## Awesome GitHub Repositories
 
