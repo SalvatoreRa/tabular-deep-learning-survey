@@ -320,3 +320,25 @@ From [here](), check there for other tutorials and resources
 |[Tabula Rasa: Fill in What Is Missing](https://levelup.gitconnected.com/tabula-rasa-fill-in-what-is-missing-ba10c8402c03)| [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/tabula_rasa_missing_data.ipynb) - Scripts: [1](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MAR.py), [2](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MCAR.py), [3](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MNAR.py) | Missing values are a known problem, why and how we can solve it|
 | [Tabula Rasa: Large Language Models for Tabular Data](https://levelup.gitconnected.com/tabula-rasa-large-language-models-for-tabular-data-e1fd781946fa) | -- | Tabular data are everywhere, why and how you can use LLMs for them|
 |[Tabula Rasa: A Deep Dive on Kolmogorov-Arnold Networks (KANs)](https://medium.com/p/f50958ca79b1)| -- |A Deep Dive into Next-Gen Neural Networks |
+
+## Free courses
+
+A list of free courses that can help to approach tabular deep learning
+
+| Name | Link | Topic | Description |
+| ------- | ------| ---- | ------ |
+| 6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | Discrete Math | |
+| 18.01 Single Variable Calculus, Fall 2006 - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) | Calculus | |
+| 18.02 Multivariable Calculus, Fall 2007 - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) | Calculus  | |
+| Statistics 110 - Probability - Harvard University | [link](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |  | |
+| 18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |  | |
+| Causal inference| [link](https://www.bradyneal.com/causal-inference-course) | online causal inference course page |
+| CS50: Introduction to Computer Science | [link](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | introductory course  | Harvard introductory course. It’s an 11 week module based on Harvard University’s largest course called CS50. |
+| Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
+| CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW | [link](https://cs50.harvard.edu/ai/2020/) |  | |
+| 6.034 Artificial Intelligence, MIT OCW | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) |  | |
+| CS294-129 Designing, Visualizing and Understanding Deep Neural Networks | [link](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) |  | [YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm) |
+
+## Books
+
+* [Machine Learning for Tabular Data](https://github.com/lmassaron/Machine-Learning-on-Tabular-Data)
