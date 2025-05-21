@@ -32,6 +32,8 @@
 
 # Background
 
+![timeline of models](https://github.com/SalvatoreRa/tabular-deep-learning-survey/blob/main/images/taxonomy.jpg)
+
 # Taxonomy
 
 ## Data transformation for neural network
