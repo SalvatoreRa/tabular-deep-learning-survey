@@ -12,7 +12,10 @@
 | 2024 | LM-IGTD | [LM-IGTD: a 2d image generator for low-dimensional and mixed-type tabular data to leverage the potential of convolutional neural networks](https://arxiv.org/abs/2406.14566) | -  |
 | 2023 | ReConTab | [Recontab: Regularized contrastive representation learning for tabular data](https://arxiv.org/abs/2310.18541) | - |
 | 2023 | HYTREL | [HYTREL: Hypergraph-enhanced Tabular Data Representation Learninga](https://arxiv.org/abs/2307.08623) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/hypergraph-tabular-lm) |
+| 2023 | TabGSL | [TabGSL: Graph Structure Learning for Tabular Data Prediction](https://arxiv.org/abs/2305.15843) | - |
+| 2023 | IGNNet  | [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amrmalkhatib/ignnet) |
 | 2022 | DWTM | [A Dynamic Weighted Tabular Method for Convolutional Neural Networks](https://arxiv.org/abs/2205.10386) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AnonymousCIKM1/DWTM) |
+| 2022 | ReGram | [Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal](https://arxiv.org/abs/2212.12190) | - |
 | 2021 | IGTD | [Converting tabular data into images for deep learning with convolutional neural networks](https://www.nature.com/articles/s41598-021-90923-y) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/oeg-upm/TINTOlib-Documentation) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/zhuyitan/IGTD) |
 | 2020 | VIME | [VIME: extending the success of self- and semi-supervised learning to tabular domain](https://proceedings.neurips.cc/paper_files/paper/2020/hash/7d97667a3e056acab9aaf653807b4a03-Abstract.html) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jsyoon0823/VIME) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/TabularS3L)|
 | 2020 | Tabular Convolution (TAC)  | [A novel method for classification of tabular data using convolutional neural networks](https://www.biorxiv.org/content/10.1101/2020.05.02.074203.abstract) | - |
@@ -213,8 +216,10 @@
 | 2023 | Forest-Diffusion   | [Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees](https://arxiv.org/abs/2309.099687) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SamsungSAILMontreal/ForestDiffusion) [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/atong01/conditional-flow-matching) |
 | 2023 | MissDiff   | [MissDiff: Training Diffusion Models on Tabular Data with Missing Values](https://arxiv.org/abs/2307.00467) | - |
 | 2023 | ReMasker   | [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://arxiv.org/abs/2309.13793) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/tydusky/remasker) |
+| 2023 | EGG-GAE   | [EGG-GAE: scalable graph neural networks for tabular data imputation](https://arxiv.org/abs/2210.10446) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/levtelyatnikov/EGG_GAE) |
 | 2023 | WGAIN-GP   | [Enhanced data imputation framework for bridge health monitoring using Wasserstein generative adversarial networks with gradient penalty](https://www.sciencedirect.com/science/article/abs/pii/S2352012423013656) | - |
 | 2022 | AimNet   | [Attention-based Learning for Missing Data Imputation in HoloClean](https://proceedings.mlsys.org/paper_files/paper/2020/hash/023560744aae353c03f7ae787f2998dd-Abstract.html) | - |
+| 2022 | GEDI   | [GEDI: A Graph-based End-to-end Data Imputation Framework](https://arxiv.org/abs/2208.06573) | - |
 | 2022 | TabCSDI  | [Diffusion models for missing value imputation in tabular data](https://arxiv.org/abs/2210.17128) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/pfnet-research/TabCSDI) |
 | 2022 | B-VAEs  | [Leveraging variational autoencoders for multiple data imputation](https://arxiv.org/abs/2209.15321) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/roskamsh/BetaVAEMultImpute) |
 | 2021 | NIMIWAE  | [Unsupervised Imputation of Non-ignorably Missing Data Using Importance-Weighted Autoencoders](https://arxiv.org/abs/2101.07357) |  - |
@@ -224,6 +229,7 @@
 | 2019 | DataWig  | [DataWig: Missing Value Imputation for Tables](https://jmlr.org/papers/v20/18-753.html) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/datawig) |
 | 2019 | PPCA  | [Estimation and imputation in Probabilistic Principal Component Analysis with Missing Not At Random data](https://arxiv.org/abs/1906.02493) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AudeSportisse/PPCA_MNAR) |
 | 2019 | GP-VAE  | [GP-VAE: Deep Probabilistic Time Series Imputation](https://arxiv.org/abs/1907.04155) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ratschlab/GP-VAE) |
+| 2019 | GINN  | [Missing Data Imputation with Adversarially-trained Graph Convolutional Networks](https://arxiv.org/abs/1905.01907) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/spindro/GINN) |
 | 2018 | MIDA  | [MIDA: Multiple Imputation Using Denoising Autoencoders](https://link.springer.com/chapter/10.1007/978-3-319-93040-4_21) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Oracen-zz/MIDAS) |
 | 2018 | GAIN  | [GAIN: Missing Data Imputation using Generative Adversarial Nets](https://arxiv.org/abs/1806.02920) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jsyoon0823/GAIN) |
 | 2018 | HI-VAE  | [Handling Incomplete Heterogeneous Data using VAEs](https://arxiv.org/abs/1807.03653) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/probabilistic-learning/HI-VAE) |
@@ -253,7 +259,8 @@
 | 2023 | STaSy  | [STaSy: Score-based Tabular data Synthesis](https://arxiv.org/abs/2210.04018) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/JayoungKim408/STaSy) |
 | 2023 | MissDiff   | [MissDiff: Training Diffusion Models on Tabular Data with Missing Values](https://arxiv.org/abs/2307.00467) | - |
 | 2022 | SOS  | [Sos: Score-based oversampling for tabular data](https://arxiv.org/abs/2206.08555) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jayoungkim408/sos) |
-
+| 2021 | SubTab  | [SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning](https://arxiv.org/abs/2110.04361) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/astrazeneca/subtab) |
+| 2021 | SCARF  | [SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption](https://arxiv.org/abs/2106.15147) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/TabularS3L) |
 
 ## Other interesting surveys
 
@@ -263,6 +270,8 @@
 * [Large Language Model for Table Processing: A Survey](https://arxiv.org/abs/2402.05121)
 * [A Survey of Table Reasoning with Large Language Models](https://arxiv.org/abs/2402.08259)
 * [Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey](https://arxiv.org/abs/2402.17944)
+* [Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions](https://arxiv.org/abs/2401.02143)
+
 
 **2023**
 
@@ -284,5 +293,6 @@
 * [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 * [Research on Tabular Deep Learning](https://github.com/yandex-research/rtdl)
 * [Deep learning for tabular data](https://github.com/lmassaron/deep_learning_for_tabular_data)
+* [Graph Neural Networks for Tabular Data Learning](https://github.com/roytsai27/awesome-gnn4tdl)
 
 
