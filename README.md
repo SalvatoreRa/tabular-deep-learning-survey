@@ -299,8 +299,17 @@
 * [Research on Tabular Deep Learning](https://github.com/yandex-research/rtdl)
 * [Deep learning for tabular data](https://github.com/lmassaron/deep_learning_for_tabular_data)
 * [Graph Neural Networks for Tabular Data Learning](https://github.com/roytsai27/awesome-gnn4tdl)
+* [Machine Learning for Tabular Data](https://github.com/lmassaron/Machine-Learning-on-Tabular-Data)
 
 ## Tabular data libraries
+
+* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular) - Tabular deep learning models with PyTorch and PyTorch Lightening
+* [Pytorch Frame](https://github.com/pyg-team/pytorch-frame) - A modular framework for building neural network models on heterogeneous tabular data.
+* [TALENT](https://github.com/qile2000/LAMDA-TALENT)- A benchmark for tabular deep learning models.
+* [DeepTables](https://github.com/DataCanvasIO/DeepTables) - a library for deep learning on tabula data
+* [TabularS3L](https://github.com/Alcoholrithm/TabularS3L) - a PyTorch Lightning-based library designed to facilitate self- and semi-supervised learning with tabular data
+* [mambular](https://mambular.readthedocs.io/en/latest/) - a Python library for tabular deep learning which includes Mamba, TabTransformer, FTTransformer, TabM and tabular ResNets, and others
+* [TabPFN](https://github.com/PriorLabs/TabPFN) - TabPFN model and its [extensions](https://github.com/PriorLabs/tabpfn-extensions) 
 
 
 ## Tutorials on tabular data
@@ -342,3 +351,5 @@ A list of free courses that can help to approach tabular deep learning
 ## Books
 
 * [Machine Learning for Tabular Data](https://github.com/lmassaron/Machine-Learning-on-Tabular-Data)
+* [Deep Learning for Tabular Data](https://andre-ye.org/writing/mdl4td)
+* [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data)
