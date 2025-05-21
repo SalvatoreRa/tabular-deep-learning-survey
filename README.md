@@ -174,8 +174,7 @@
 | 2021 | TabularNet | [TabularNet: A Neural Network Architecture for Understanding Semantic Structures of Tabular Data](https://arxiv.org/abs/2106.03096) | - |
 | 2021 | DODUO | [Annotating Columns with Pre-trained Language Models](https://arxiv.org/abs/2104.01785) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/megagonlabs/doduo) |
 | 2021 | MATE | [MATE: Multi-view Attention for Table Transformer Efficiency](https://arxiv.org/abs/2109.04312) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/google-research/tapas) |
-| 2021 | TABBIE | [TABBIE: Pretrained Representations of Tabular Data
-](https://arxiv.org/abs/2105.02584) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SFIG611/tabbie) |
+| 2021 | TABBIE | [TABBIE: Pretrained Representations of Tabular Data](https://arxiv.org/abs/2105.02584) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SFIG611/tabbie) |
 | 2021 | DECO | [Exploring Decomposition for Table-based Fact Verification](https://arxiv.org/abs/2109.11020) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/arielsho/decomposition-table-reasoning) |
 | 2020 | TAPAS | [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/abs/2004.02349) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/google-research/tapas) |
 | 2020 | TUTA | [TUTA: Tree-based Transformers for Generally Structured Table Pre-training](https://arxiv.org/abs/2010.12537) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/TUTA_table_understanding) |
