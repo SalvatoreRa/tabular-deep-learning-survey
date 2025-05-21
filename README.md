@@ -265,6 +265,8 @@
 | 2021 | SubTab  | [SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning](https://arxiv.org/abs/2110.04361) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/astrazeneca/subtab) |
 | 2021 | SCARF  | [SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption](https://arxiv.org/abs/2106.15147) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/TabularS3L) |
 
+# Resources
+
 ## Other interesting surveys
 
 **2024**
@@ -298,4 +300,23 @@
 * [Deep learning for tabular data](https://github.com/lmassaron/deep_learning_for_tabular_data)
 * [Graph Neural Networks for Tabular Data Learning](https://github.com/roytsai27/awesome-gnn4tdl)
 
+## Tabular data libraries
 
+
+## Tutorials on tabular data
+
+From [here](), check there for other tutorials and resources
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+|[Traditional ML Still Reigns: Why LLMs Struggle in Clinical Prediction?](https://levelup.gitconnected.com/traditional-ml-still-reigns-why-llms-struggle-in-clinical-prediction-0717b72bd37e) |--|Clinical prediction is more than medical knowledge: An LLM may not be the solution for every task |
+|[Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)| -- |Tree-based algorithms are the winner in tabular data: Why?|
+|[Tabula Rasa: How to save your network from the category drama](https://levelup.gitconnected.com/tabula-rasa-how-to-save-your-network-from-the-category-drama-623d67ad2e65)| -- | Neural networks do not like categories but you have techniques to save your favorite model |
+|[Neural Ensemble: what’s Better than a Neural Network? A group of them](https://levelup.gitconnected.com/neural-ensemble-whats-better-than-a-neural-network-a-group-of-them-0c9e156fca15)| -- | Neural ensemble: how to combine different neural networks in a powerful model |
+|[Tabula rasa: Give your Neural Networks Rules, They Will Learn Better](https://levelup.gitconnected.com/tabula-rasa-give-your-neural-networks-rules-they-will-learn-better-ba53b555cbb4)| -- |From great powers derive great responsibilities: regularization allows AI to exploit its power|
+| [Tabula rasa: take the best of trees and neural networks](https://levelup.gitconnected.com/tabula-rasa-take-the-best-of-trees-and-neural-networks-ddc22c1884cb) | -- | Hybrid ideas for complex data: how to join two powerful models in one|
+| [Tabula rasa: Could We Have a Transformer for Tabular Data](https://medium.com/gitconnected/tabula-rasa-could-we-have-a-transformer-for-tabular-data-9e4b238cde2c) | -- | We are using large language models for everything, so why not for tabular data? |
+| [Tabula Rasa: not enough data? Generate them!](https://levelup.gitconnected.com/tabula-rasa-not-enough-data-generate-them-e1c160acb9c9) | -- | How you can apply generative AI to tabular data |
+|[Tabula Rasa: Fill in What Is Missing](https://levelup.gitconnected.com/tabula-rasa-fill-in-what-is-missing-ba10c8402c03)| [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/tabula_rasa_missing_data.ipynb) - Scripts: [1](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MAR.py), [2](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MCAR.py), [3](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MNAR.py) | Missing values are a known problem, why and how we can solve it|
+| [Tabula Rasa: Large Language Models for Tabular Data](https://levelup.gitconnected.com/tabula-rasa-large-language-models-for-tabular-data-e1fd781946fa) | -- | Tabular data are everywhere, why and how you can use LLMs for them|
+|[Tabula Rasa: A Deep Dive on Kolmogorov-Arnold Networks (KANs)](https://medium.com/p/f50958ca79b1)| -- |A Deep Dive into Next-Gen Neural Networks |
