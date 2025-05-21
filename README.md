@@ -152,12 +152,14 @@
 | Date | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | Table-Critic | [Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning](https://arxiv.org/abs/2502.11799v2) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Peiying-Yu/Table-Critic) |
+| 2025 | NormTab | [NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization](https://arxiv.org/abs/2406.17961) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mahadi-nahid/NormTab) |
 | 2024 | SERVAL | [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/abs/2403.01570v2) | - |
 | 2024 | Table meets LLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://arxiv.org/abs/2305.13062v5) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Y-Sui/Table-meets-LLM) |
 | 2024 | PoTable | [PoTable: Towards Systematic Thinking via Stage-oriented Plan-then-Execute Reasoning on Tables](https://arxiv.org/abs/2412.04272) | - |
 | 2024 | TART | [TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning](https://arxiv.org/abs/2409.11724) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/xinyuanlu00/tart) |
 | 2024 | TaPERA | [TaPERA: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-based Reasoning: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-based Reasoning](https://aclanthology.org/2024.acl-long.692/) | - |
 | 2023 | TableGPT | [TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/abs/2307.08674) | - |
+| 2023 | TAP4LLM | [TAP4LLM: Table Provider on Sampling, Augmenting, and Packing Semi-structured Data for Large Language Model Reasoning](https://arxiv.org/abs/2312.09039) | - |
 | 2023 | TableLlama | [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://osu-nlp-group.github.io/TableLlama/)  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://huggingface.co/osunlp/TableLlama) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/OSU-NLP-Group/TableLlama)|
 | 2023 | UniTabPT | [Bridge the Gap between Language models and Tabular Understanding](https://arxiv.org/abs/2302.09302) | - |
 | 2023 | UTP | [Testing the Limits of Unified Sequence to Sequence LLM Pretraining on Diverse Table Data Tasks](https://arxiv.org/abs/2310.00789) | - |
@@ -241,6 +243,8 @@
 | 2024 | TabSyn  | [Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space](https://arxiv.org/abs/2310.09656) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amazon-science/tabsyn) |
 | 2024 | Forest-Diffusion  | [Generating and imputing tabular data via diffusion and flow-based gradient-boosted trees](https://arxiv.org/abs/2309.09968) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SamsungSAILMontreal/ForestDiffusion) |
 | 2023 | TabDDPM  | [Tabddpm: Modelling tabular data with diffusion models](https://arxiv.org/abs/2210.04018) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tab-ddpm) |
+| 2023 | GReaT  | [Language Models are Realistic Tabular Data Generators](https://arxiv.org/abs/2210.06280) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/tabularis-ai/be_great) |
+| 2023 | REaLTabFormer  | [REaLTabFormer: Generating Realistic Relational and Tabular Data using Transformers](https://arxiv.org/abs/2302.02041) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/worldbank/REaLTabFormer) |
 | 2023 | FinDiff  | [Findiff: Diffusion models for financial tabular data generation](https://arxiv.org/abs/2309.01472) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/sattarov/FinDiff) |
 | 2023 | DPM-EHR  | [Synthetic health-related longitudinal data with mixed-type variables generated using diffusion models](https://arxiv.org/abs/2303.12281) |  - |
 | 2023 | MedDiff | [MedDiff: Generating electronic health records using accelerated denoising diffusion model](https://arxiv.org/abs/2302.04355) |  - |
