@@ -304,6 +304,10 @@
 
 ## Other interesting surveys
 
+**2025**
+
+* [Representation Learning for Tabular Data: A Comprehensive Survey](https://arxiv.org/abs/2504.16109)
+
 **2024**
 
 * [Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution](https://arxiv.org/abs/2408.10548)
