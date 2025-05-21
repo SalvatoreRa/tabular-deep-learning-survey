@@ -2,6 +2,34 @@
 
 
 
+# Index
+* [Background](#Background)
+* [Taxonomy](#Taxonomy)
+    * [Data transformation for neural network](#Data-transformation-for-neural-network)
+        * [Homogeneous Data Encoding](#Homogeneous-Data-Encoding)
+    * [Neural ensembles](#Neural-ensembles)
+    * [Regularization](#Regularization)
+    * [Specialized architectures](#Specialized-architectures)
+        * [MLP alternatives](#MLP-alternatives)
+        * [MLP enhancements](#MLP-enhancements)
+        * [Fully differentiable](#Fully-differentiable)
+        * [Partly differentiable](#Partly-differentiable)
+    * [Trasformer based](#Trasformer-based)
+        * [Modified transformers](#Modified-transformers)
+        * [Data adaptation](#Data-adaptation)
+    * [Large language models](#Large-language-models)
+    * [Benchmark and comparative studies](#Benchmark-and-comparative-studies)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+
+# Background
+
+# Taxonomy
+
 ## Data transformation for neural network
 
 ### Homogeneous Data Encoding
@@ -240,7 +268,7 @@
 | 2012 | MissForest  | [MissForest—non-parametric missing value imputation for mixed-type data](https://academic.oup.com/bioinformatics/article/28/1/112/219101) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/stekhoven/missForest) |
 | 2011 | MICE  | [Multiple imputation by chained equations: what is it and how does it work?](https://pubmed.ncbi.nlm.nih.gov/21499542/) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amices/mice) |
 
-## Table data generation
+## Tabular data generation
 
 | Date | Name | Paper | Code | 
 | - | - | - | - |
