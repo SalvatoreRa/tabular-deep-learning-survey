@@ -9,6 +9,7 @@
 | Date | Name | Paper | Code | 
 | - | - | - | - |
 | 2024 | CARTE | [CARTE: pretraining and transfer for tabular learning](https://proceedings.mlr.press/v235/kim24d.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/carte) |
+| 2024 | INCE | [Graph Neural Network contextual embedding for Deep Learning on tabular data](https://www.sciencedirect.com/science/article/pii/S0893608024001047?via%3Dihub) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MatteoSalvatori/INCE) |
 | 2024 | LM-IGTD | [LM-IGTD: a 2d image generator for low-dimensional and mixed-type tabular data to leverage the potential of convolutional neural networks](https://arxiv.org/abs/2406.14566) | -  |
 | 2023 | ReConTab | [Recontab: Regularized contrastive representation learning for tabular data](https://arxiv.org/abs/2310.18541) | - |
 | 2023 | HYTREL | [HYTREL: Hypergraph-enhanced Tabular Data Representation Learninga](https://arxiv.org/abs/2307.08623) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/hypergraph-tabular-lm) |
@@ -16,6 +17,8 @@
 | 2023 | IGNNet  | [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amrmalkhatib/ignnet) |
 | 2022 | DWTM | [A Dynamic Weighted Tabular Method for Convolutional Neural Networks](https://arxiv.org/abs/2205.10386) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AnonymousCIKM1/DWTM) |
 | 2022 | ReGram | [Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal](https://arxiv.org/abs/2212.12190) | - |
+| 2022 | T2G-Former | [T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/abs/2211.16887) | [Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jyansir/t2g-former) |
+| 2022 | Tab2Graph | [Tab2Graph: Transforming Heterogeneous Tables as Graphs](https://dl.acm.org/doi/full/10.1145/3703412.3703429) | - |
 | 2021 | IGTD | [Converting tabular data into images for deep learning with convolutional neural networks](https://www.nature.com/articles/s41598-021-90923-y) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/oeg-upm/TINTOlib-Documentation) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/zhuyitan/IGTD) |
 | 2020 | VIME | [VIME: extending the success of self- and semi-supervised learning to tabular domain](https://proceedings.neurips.cc/paper_files/paper/2020/hash/7d97667a3e056acab9aaf653807b4a03-Abstract.html) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jsyoon0823/VIME) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/TabularS3L)|
 | 2020 | Tabular Convolution (TAC)  | [A novel method for classification of tabular data using convolutional neural networks](https://www.biorxiv.org/content/10.1101/2020.05.02.074203.abstract) | - |
