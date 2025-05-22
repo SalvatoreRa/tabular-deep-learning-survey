@@ -124,6 +124,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 | Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2024 | BiSHop | [Bishop: Bi-directional cellular learning for tabular data with generalized sparse modern hopfield model](https://proceedings.mlr.press/v235/xu24l.html) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MAGICS-LAB/BiSHop) |
+| 2024 |  GRANDE     | [GRANDE: gradient-based decision tree ensembles for tabular data](https://arxiv.org/abs/2309.17130) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/s-marton/GRANDE) |
 | 2024 | SwitchTab | [Switchtab: Switched autoencoders are effective tabular learners](https://ojs.aaai.org/index.php/AAAI/article/view/29523) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/TabularS3L) |
 | 2024 | ExcelFormer | [Can a deep learning model be a sure bet for tabular prediction?](https://dl.acm.org/doi/abs/10.1145/3637528.3671893) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/whatashot/excelformer) |
 | 2023 | Trompt | [Trompt: Towards a better deep neural network for tabular data](https://proceedings.mlr.press/v202/chen23c.html) | - |
