@@ -48,6 +48,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 | Year | Name | Paper | Code | 
 | - | - | - | - |
+| 2024 | PTaRL | [Ptarl: Prototype-based tabular representation learning via space calibration](https://arxiv.org/abs/2407.05364) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/HangtingYe/PTaRL)  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/PTaRL)|
 | 2024 | CARTE | [CARTE: pretraining and transfer for tabular learning](https://proceedings.mlr.press/v235/kim24d.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/carte) |
 | 2024 | INCE | [Graph Neural Network contextual embedding for Deep Learning on tabular data](https://www.sciencedirect.com/science/article/pii/S0893608024001047?via%3Dihub) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MatteoSalvatori/INCE) |
 | 2024 | LM-IGTD | [LM-IGTD: a 2d image generator for low-dimensional and mixed-type tabular data to leverage the potential of convolutional neural networks](https://arxiv.org/abs/2406.14566) | -  |
@@ -81,6 +82,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 | - | - | - | - |
 | 2025 | Harmonic loss| [Harmonic Loss Trains Interpretable AI Models](https://arxiv.org/abs/2502.01628v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ches-001/audio-segmenter)  |
 | 2024 | sTabNet| [Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data](https://arxiv.org/abs/2410.17758v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/sTabNet)  |
+| 2023 | [An inductive bias for tabular deep learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8671b6dffc08b4fcf5b8ce26799b2bef-Abstract-Conference.html) | |
 | 2022 | Regularized pretraining | [Revisiting Pretraining Objectives for Tabular Deep Learning](https://arxiv.org/abs/2207.03208) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/puhsu/tabular-dl-pretrain-objectives)  |
 | 2022 | LSPIN| [Locally Sparse Neural Networks for Tabular Biomedical Data](https://proceedings.mlr.press/v162/yang22i.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jcyang34/lspin) |
 | 2021 | Regularized tuned network| [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets)  |
