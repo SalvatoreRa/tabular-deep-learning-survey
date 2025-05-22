@@ -34,6 +34,10 @@
 
 ![timeline of models](https://github.com/SalvatoreRa/tabular-deep-learning-survey/blob/main/images/timeline_tabular_deep.jpg)
 
+Tabular data remains the most prevalent data format across industries such as finance, healthcare, and cybersecurity. Despite the widespread adoption of deep learning in image and text domains, tabular data tasks are still dominated by tree-based models like XGBoost and CatBoost. This survey explores the evolving landscape of deep learning for tabular data, offering a comprehensive and structured overview of the field.
+
+From early MLPs to recent transformer-based architectures and the emergence of foundation models, we cover key challenges unique to tabular data, categorize state-of-the-art models, and provide practical insights into model selection, interpretability, and scalability.
+
 # Taxonomy
 
 ![taxonomy](https://github.com/SalvatoreRa/tabular-deep-learning-survey/blob/main/images/taxonomy.jpg)
