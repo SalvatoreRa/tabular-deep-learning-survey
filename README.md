@@ -46,7 +46,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ### Homogeneous Data Encoding
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2024 | CARTE | [CARTE: pretraining and transfer for tabular learning](https://proceedings.mlr.press/v235/kim24d.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/carte) |
 | 2024 | INCE | [Graph Neural Network contextual embedding for Deep Learning on tabular data](https://www.sciencedirect.com/science/article/pii/S0893608024001047?via%3Dihub) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MatteoSalvatori/INCE) |
@@ -70,13 +70,13 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ## Neural ensembles
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2023 | HyperTab | [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/abs/2304.03543) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wwydmanski/hypertab) |
 
 ## Regularization
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | Harmonic loss| [Harmonic Loss Trains Interpretable AI Models](https://arxiv.org/abs/2502.01628v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ches-001/audio-segmenter)  |
 | 2024 | sTabNet| [Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data](https://arxiv.org/abs/2410.17758v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/sTabNet)  |
@@ -97,7 +97,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ### MLP alternatives
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2024 | KANs 2.0 | [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kindxiaoming/pykan)  |
 | 2024 | KANs | [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kindxiaoming/pykan) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks) |
@@ -109,7 +109,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ### MLP enhancements
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2024 | sTabNet| [Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data](https://arxiv.org/abs/2410.17758v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/sTabNet)  |
 | 2024 | xNet | [Cauchy activation function and XNet](https://arxiv.org/abs/2409.19221) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/FAQ.md#large-language-models:~:text=What%20are%20(Comple)XNet%20or%20Xnet%3F)  |
@@ -119,7 +119,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ### Fully differentiable
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2024 | BiSHop | [Bishop: Bi-directional cellular learning for tabular data with generalized sparse modern hopfield model](https://proceedings.mlr.press/v235/xu24l.html) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MAGICS-LAB/BiSHop) |
 | 2024 | SwitchTab | [Switchtab: Switched autoencoders are effective tabular learners](https://ojs.aaai.org/index.php/AAAI/article/view/29523) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/TabularS3L) |
@@ -141,7 +141,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ### Partly differentiable
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2023 | TabR | [TabR: Tabular Deep Learning Meets Nearest Neighbors in 2023](https://arxiv.org/abs/2307.14338) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabular-dl-tabr) |
 | 2021 | BGNN | [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://arxiv.org/abs/2101.08543) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/nd7141/bgnn) |
@@ -153,7 +153,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ### Modified transformers
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | TabPFN v2 | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
 | 2024 | UniTabE | [UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science](https://openreview.net/forum?id=6LLho5X6xV) | |
@@ -176,7 +176,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ### Data adaptation
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2022 | FORTAP | [FORTAP: Using Formulas for Numerical-Reasoning-Aware Table Pretraining](https://arxiv.org/abs/2106.03096) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/TUTA_table_understanding) |
 | 2021 | TabularNet | [TabularNet: A Neural Network Architecture for Understanding Semantic Structures of Tabular Data](https://arxiv.org/abs/2106.03096) | - |
@@ -194,7 +194,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ## Large language models
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | Table-Critic | [Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning](https://arxiv.org/abs/2502.11799v2) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Peiying-Yu/Table-Critic) |
 | 2025 | NormTab | [NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization](https://arxiv.org/abs/2406.17961) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mahadi-nahid/NormTab) |
@@ -229,7 +229,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ## Benchmark and comparative studies
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | TabReD  | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabred) |
 | 2024 | Data-Centric Benchmark | [A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data](https://arxiv.org/abs/2407.02112) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/atschalz/dc_tabeval) |
@@ -246,7 +246,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ## Tabular data imputation
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | TabDiff  | [TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation](https://arxiv.org/abs/2410.20626) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MinkaiXu/TabDiff) |
 | 2025 | DeepIFSAC  | [DeepIFSAC: Deep Imputation of Missing Values Using Feature and Sample Attention within Contrastive Framework](https://arxiv.org/abs/2501.10910v3) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mdsamad001/DeepIFSAC) |
@@ -281,7 +281,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 ## Tabular data generation
 
-| Date | Name | Paper | Code | 
+| Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | CDTD  | [Continuous Diffusion for Mixed-Type Tabular Data](https://arxiv.org/abs/2312.10431v4) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/muellermarkus/cdtd) |
 | 2025 | TabDiff  | [TabDiff: a Unified Diffusion Model for Multi-Modal Tabular Data Generation](https://arxiv.org/abs/2410.20626) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MinkaiXu/TabDiff) |
