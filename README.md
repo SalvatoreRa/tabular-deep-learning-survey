@@ -69,6 +69,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 | 2023 | HYTREL | [HYTREL: Hypergraph-enhanced Tabular Data Representation Learninga](https://arxiv.org/abs/2307.08623) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/hypergraph-tabular-lm) |
 | 2023 | TabGSL | [TabGSL: Graph Structure Learning for Tabular Data Prediction](https://arxiv.org/abs/2305.15843) | - |
 | 2023 | IGNNet  | [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amrmalkhatib/ignnet) |
+| 2023 | TabPTM | [Training-free generalization on heterogeneous tabular data via meta-representation](https://arxiv.org/abs/2311.00055) | - |
 | 2022 | DWTM | [A Dynamic Weighted Tabular Method for Convolutional Neural Networks](https://arxiv.org/abs/2205.10386) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AnonymousCIKM1/DWTM) |
 | 2022 | ReGram | [Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal](https://arxiv.org/abs/2212.12190) | - |
 | 2022 | T2G-Former | [T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/abs/2211.16887) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jyansir/t2g-former) |
@@ -91,6 +92,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 | 2025 | LLM-Boost, PFN-Boost | [Transformers Boost the Performance of Decision Trees on Tabular Data across Sample Sizes](https://arxiv.org/abs/2502.02672) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MayukaJ/LLM-Boost) |
 | 2024 | HyperFast | [Hyperfast: Instant classification for tabular data](https://arxiv.org/abs/2402.14335) | AAAI        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AI-sandbox/HyperFast) |
 | 2023 | HyperTab | [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/abs/2304.03543) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wwydmanski/hypertab) |
+
 
 ## Regularization
 
