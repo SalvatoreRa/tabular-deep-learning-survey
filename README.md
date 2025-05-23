@@ -87,6 +87,9 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 | Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | TabM | [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](https://arxiv.org/abs/2410.24210) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabm) |
+| 2025 |   Beta    | [Tabpfn unleashed: A scalable and effective solution to tabular classification problems](https://arxiv.org/abs/2502.02527) | - |
+| 2025 | LLM-Boost, PFN-Boost | [Transformers Boost the Performance of Decision Trees on Tabular Data across Sample Sizes](https://arxiv.org/abs/2502.02672) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MayukaJ/LLM-Boost) |
+| 2024 | HyperFast | [Hyperfast: Instant classification for tabular data](https://arxiv.org/abs/2402.14335) | AAAI        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AI-sandbox/HyperFast) |
 | 2023 | HyperTab | [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/abs/2304.03543) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wwydmanski/hypertab) |
 
 ## Regularization
