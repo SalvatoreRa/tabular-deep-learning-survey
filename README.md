@@ -13,6 +13,7 @@ Feel free to create a new issue to signal any error, any suggestion, and any mis
 # Index
 * [Background](#Background)
 * [Update](#Update)
+* [how to cite](#how-to-cite)
 * [Taxonomy](#Taxonomy)
     * [Data transformation for neural network](#Data-transformation-for-neural-network)
         * [Homogeneous Data Encoding](#Homogeneous-Data-Encoding)
