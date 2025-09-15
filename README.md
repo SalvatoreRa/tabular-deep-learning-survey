@@ -55,7 +55,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 BiB format for latex:
 
-'''
+``` 
  @article{Raieli_2025,
 title={Tabular Deep Learning: A Survey from Small Neural Networks to Large Language Models},
 url={http://dx.doi.org/10.36227/techrxiv.175753732.26052568/v1},
@@ -64,9 +64,8 @@ publisher={Institute of Electrical and Electronics Engineers (IEEE)},
 author={Raieli, Salvatore},
 year={2025},
 month=sep }
+```
 
-
-'''
 
 
 # Taxonomy
