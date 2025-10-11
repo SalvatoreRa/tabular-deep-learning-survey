@@ -1,6 +1,6 @@
 # Tabular Deep Learning: A Survey from Small Neural Networks to Large Language Models
 
-This repository is the companion GitHub Project for [Tabular Deep Learning: A Survey from Small Neural Networks to Large Language Models](). The survey, will be published soon.
+This repository is the companion GitHub Project for [Tabular Deep Learning: A Survey from Small Neural Networks to Large Language Models](https://www.techrxiv.org/users/961472/articles/1332693-tabular-deep-learning-a-survey-from-small-neural-networks-to-large-language-models). The survey, will be published soon.
 
 If you use any content of this repository or from the survey, please cite:
 
