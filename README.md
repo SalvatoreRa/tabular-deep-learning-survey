@@ -286,6 +286,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 | Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | TabReD  | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabred) |
+| 2025 | Imputation benchmark  | [Imputation for prediction: beware of diminishing returns](https://arxiv.org/abs/2407.19804) |  - |
 | 2024 | Data-Centric Benchmark | [A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data](https://arxiv.org/abs/2407.02112) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/atschalz/dc_tabeval) |
 | 2024 | Better-by-Default  | [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dholzmueller/pytabkit) |
 | 2024 | LAMDA-Tabular-Bench  | [A Closer Look at Deep Learning Methods on Tabular Datasets](https://arxiv.org/abs/2407.00956) | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/qile2000/LAMDA-TALENT) |
