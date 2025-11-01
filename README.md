@@ -13,7 +13,7 @@ Feel free to create a new issue to signal any error, any suggestion, and any mis
 # Index
 * [Background](#Background)
 * [Update](#Update)
-* [how to cite](#how-to-cite)
+* [How to cite](#How-to-cite)
 * [Taxonomy](#Taxonomy)
     * [Data transformation for neural network](#Data-transformation-for-neural-network)
         * [Homogeneous Data Encoding](#Homogeneous-Data-Encoding)
@@ -52,7 +52,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 * [9/25] - survey has been published
 
-# how to cite
+# How to cite
 
 If this repository has been useful for your work, consider citing this repository:
 
