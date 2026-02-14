@@ -376,7 +376,12 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 **2025**
 
 * [Representation Learning for Tabular Data: A Comprehensive Survey](https://arxiv.org/abs/2504.16109)
-* [A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond](https://openreview.net/forum?id=RoShSRQQ67)
+* [A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond](https://openreview.net/forum?id=RoShSRQQ67) - [preprint](https://arxiv.org/abs/2503.05954)
+* [Tabular data generation models: An in-depth survey and performance benchmarks with extensive tuning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225023276) - [preprint](https://hal.science/hal-04612244)
+* [Survey on Tabular Data Privacy and Synthetic Data Generation in Industry 4.0](https://link.springer.com/article/10.1007/s10489-025-06823-5)
+* [A Comprehensive Survey of Synthetic Tabular Data Generation](https://arxiv.org/abs/2504.16506)
+* [A Survey of Large Language Models for Tabular Data Imputation: Tuning Paradigms and Challenges](https://link.springer.com/chapter/10.1007/978-3-032-03740-4_19)
+* [Tabular Data Understanding with LLMs: A Survey of Recent Advances and Challenges](https://arxiv.org/abs/2508.00217)
 
 **2024**
 
@@ -385,11 +390,13 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 * [A Survey of Table Reasoning with Large Language Models](https://arxiv.org/abs/2402.08259)
 * [Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey](https://arxiv.org/abs/2402.17944)
 * [Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions](https://arxiv.org/abs/2401.02143)
+* [Deep Neural Networks and Tabular Data: A Survey](https://ieeexplore.ieee.org/abstract/document/9998482) - [code](https://github.com/kathrinse/TabSurvey?tab=readme-ov-file)
 
 
 **2023**
 
 * [Transformers for Tabular Data Representation: A Survey of Models and Applications](https://aclanthology.org/2023.tacl-1.14/)
+* [Embeddings for Tabular Data: A Survey](https://arxiv.org/abs/2302.11777)
 
 
 **2022**
@@ -399,6 +406,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 **2021**
 
 * [Graph Signal Processing, Graph Neural Network and Graph Learning on Biological Data: A Systematic Review](https://ieeexplore.ieee.org/abstract/document/9585532)
+* [Explainable Artificial Intelligence for Tabular Data: A Survey](https://ieeexplore.ieee.org/document/9551946)
 
 
 ## Awesome GitHub Repositories
@@ -413,6 +421,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 * [Deep learning for tabular data](https://github.com/lmassaron/deep_learning_for_tabular_data)
 * [Graph Neural Networks for Tabular Data Learning](https://github.com/roytsai27/awesome-gnn4tdl)
 * [Machine Learning for Tabular Data](https://github.com/lmassaron/Machine-Learning-on-Tabular-Data)
+* [Large Language Models on Tabular Data -- A Survey](https://github.com/tanfiona/LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation)
 
 ## Tabular data libraries
 
@@ -466,3 +475,7 @@ A list of free courses that can help to approach tabular deep learning
 * [Machine Learning for Tabular Data](https://github.com/lmassaron/Machine-Learning-on-Tabular-Data)
 * [Deep Learning for Tabular Data](https://andre-ye.org/writing/mdl4td)
 * [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data)
+
+## Master and PHD thesis
+
+* [Exploring LLMs for Tabular Data Preparation](https://www.politesi.polimi.it/retrieve/079f58cb-758d-4b25-b379-97dee470ed2b/2025_04_Spreafico_Tassini_Tesi.pdf)
