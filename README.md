@@ -125,7 +125,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 | Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | Harmonic loss| [Harmonic Loss Trains Interpretable AI Models](https://arxiv.org/abs/2502.01628v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ches-001/audio-segmenter)  |
-| 2024 | sTabNet| [Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data](https://arxiv.org/abs/2410.17758v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/sTabNet)  |
+| 2024 | sTabNet| [Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data](https://www.nature.com/articles/s44387-025-00056-0) [preprint](https://arxiv.org/abs/2410.17758v1) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SalvatoreRa/sTabNet)  |
 | 2023 | [An inductive bias for tabular deep learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8671b6dffc08b4fcf5b8ce26799b2bef-Abstract-Conference.html) | - |
 | 2023 | [Self-supervision for Tabular Data by Learning to Predict Additive Homoskedastic Gaussian Noise as Pretext](https://dl.acm.org/doi/abs/10.1145/3594720) | - |
 | 2023 | TANGOS | [Tangos: Regularizing tabular neural networks through gradient orthogonalization and specialization](https://arxiv.org/abs/2303.05506) |   [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alanjeffares/TANGOS) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/vanderschaarlab/tangos) |
