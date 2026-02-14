@@ -55,7 +55,7 @@ From early MLPs to recent transformer-based architectures and the emergence of f
 
 # How to cite
 
-If this repository has been useful for your work, consider citing this repository:
+If this repository has been useful for your work, consider citing the survey:
 
 BiB format for latex:
 
@@ -491,17 +491,21 @@ A list of free courses that can help to approach tabular deep learning
 * [Tabular Machine Learning on Small-Size and High-Dimensional Data](https://www.repository.cam.ac.uk/items/345cd12d-c798-425d-b885-633f80b081c1)
 * [Toward effective and generalisable machine learning for biosignal time series](https://www.repository.cam.ac.uk/items/b99cb10e-b0ff-4820-bf2d-81ab3c8406ac)
 * [On Principles of Efficiency for Federated Learning](https://www.repository.cam.ac.uk/items/f2d8af42-5228-42f9-8c52-149195c66be0)
+* [Robust Watermarking in Federated Learning for Tabular Data with Attribution Capabilities.](https://webthesis.biblio.polito.it/36430/)
 
 **2024**
 
 * [Reconciling deep learning with tabular data](https://theses.hal.science/tel-05035507v1)
 * [Novel class discovery in tabular data : an application to network fault diagnosis](https://theses.hal.science/tel-04770701v1)
-* [Advancing Anomaly Detection in Tabular Data : A Case-Study on Credit Card Fraud Identification](https://theses.hal.science/tel-05351694v1)
+* [Advancing Anomaly Detection in Tabular Data: A Case-Study on Credit Card Fraud Identification](https://theses.hal.science/tel-05351694v1)
+* [Semantic Enrichment of Tabular Data with Machine Learning Techniques](https://boa.unimib.it/handle/10281/465138)
+* [Data-Centric AI: Tabular Data Synthesis with Deep Generative Models](https://openaccess.wgtn.ac.nz/articles/thesis/Data-Centric_AI_Tabular_Data_Synthesis_with_Deep_Generative_Models/27014419?file=49172539)
 
 **2023**
 
 * [Post-hoc Explainable AI for Black Box Models on Tabular Data](https://theses.hal.science/tel-04362470v1)
 * [Deep Learning on Incomplete and Multi-Source Data : Application to Cancer Immunotherapy](https://theses.hal.science/tel-04804844v1)
+* [Modeling the Structure of Tabular Files for Data Preparation](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/62435/file/vitagliano_diss.pdf)
 
 **2022**
 
