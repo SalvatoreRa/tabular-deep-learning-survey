@@ -38,6 +38,7 @@ Feel free to create a new issue to signal any error, any suggestion, and any mis
     * [Tutorials on tabular data](#Tutorials-on-tabular-data)
     * [Free courses](#Free-courses)
     * [Books](#Books)
+    * [Master and PHD thesis](#Master-and-PHD-thesis)
 
 
 # Background
@@ -478,11 +479,18 @@ A list of free courses that can help to approach tabular deep learning
 
 ## Master and PHD thesis
 
+**2026**
+
+* [Learning with less: machine learning techniques for scarce medical data](https://www.repository.cam.ac.uk/items/f2ad2caa-5558-4343-8782-9c17082b101e)
+
 **2025**
 
 * [Exploring LLMs for Tabular Data Preparation](https://www.politesi.polimi.it/retrieve/079f58cb-758d-4b25-b379-97dee470ed2b/2025_04_Spreafico_Tassini_Tesi.pdf)
 * [Mining Rules on Tabular Data](https://theses.hal.science/tel-05480277v1)
 * [Transcriptomics data generation with deep generative models](https://theses.hal.science/tel-04996930v1)
+* [Tabular Machine Learning on Small-Size and High-Dimensional Data](https://www.repository.cam.ac.uk/items/345cd12d-c798-425d-b885-633f80b081c1)
+* [Toward effective and generalisable machine learning for biosignal time series](https://www.repository.cam.ac.uk/items/b99cb10e-b0ff-4820-bf2d-81ab3c8406ac)
+* [On Principles of Efficiency for Federated Learning](https://www.repository.cam.ac.uk/items/f2d8af42-5228-42f9-8c52-149195c66be0)
 
 **2024**
 
