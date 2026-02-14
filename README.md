@@ -478,4 +478,21 @@ A list of free courses that can help to approach tabular deep learning
 
 ## Master and PHD thesis
 
+**2025**
+
 * [Exploring LLMs for Tabular Data Preparation](https://www.politesi.polimi.it/retrieve/079f58cb-758d-4b25-b379-97dee470ed2b/2025_04_Spreafico_Tassini_Tesi.pdf)
+* [Mining Rules on Tabular Data](https://theses.hal.science/tel-05480277v1)
+
+**2024**
+
+* [Reconciling deep learning with tabular data](https://theses.hal.science/tel-05035507v1)
+* [Novel class discovery in tabular data : an application to network fault diagnosis](https://theses.hal.science/tel-04770701v1)
+
+**2023**
+
+* [Post-hoc Explainable AI for Black Box Models on Tabular Data](https://theses.hal.science/tel-04362470v1)
+
+**2022**
+
+* [Deep learning models for tabular data curation](https://theses.hal.science/tel-03945305v1)
+* [Tabular Data Integration for Multidimensional Data Warehouse](https://theses.hal.science/tel-03903570v1)
