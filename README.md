@@ -366,6 +366,11 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 
 ## Other interesting surveys
 
+**2026**
+
+* [Generative Adversarial Networks for Synthetic Data Generation in Deep Learning Applications](https://www.artificialintelligencepub.com/jairi/article/view/jairi-aid1004)
+* [AI-driven multi-omics integration in precision oncology: bridging the data deluge to clinical decisions](https://link.springer.com/article/10.1007/s10238-025-01965-9)
+
 **2025**
 
 * [Representation Learning for Tabular Data: A Comprehensive Survey](https://arxiv.org/abs/2504.16109)
