@@ -369,6 +369,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 
 **2026**
 
+* [Flow matching meets biology and life science: a survey](https://www.nature.com/articles/s44387-025-00066-y)
 * [Generative Adversarial Networks for Synthetic Data Generation in Deep Learning Applications](https://www.artificialintelligencepub.com/jairi/article/view/jairi-aid1004)
 * [AI-driven multi-omics integration in precision oncology: bridging the data deluge to clinical decisions](https://link.springer.com/article/10.1007/s10238-025-01965-9)
 
