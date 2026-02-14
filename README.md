@@ -286,6 +286,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 
 | Year | Name | Paper | Code | 
 | - | - | - | - |
+| 2026 | Drug Response  | [Benchmarking community drug response prediction models: datasets, models, tools, and metrics for cross-dataset generalization analysis](https://academic.oup.com/bib/article/27/1/bbaf667/8422735) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/adpartin/cross-dataset-drp-paper/tree/v1.2-bib-paper-repro) |
 | 2025 | TabArena  | [TabArena: A Living Benchmark for Machine Learning on Tabular Data](https://arxiv.org/abs/2506.16791) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/autogluon/tabrepo?tab=readme-ov-file) |
 | 2025 | TabReD  | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) |  [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabred) |
 | 2025 | Imputation benchmark  | [Imputation for prediction: beware of diminishing returns](https://arxiv.org/abs/2407.19804) |  - |
