@@ -388,6 +388,10 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 
 * [Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks](https://arxiv.org/abs/2201.09745)
 
+**2021**
+
+* [Graph Signal Processing, Graph Neural Network and Graph Learning on Biological Data: A Systematic Review](https://ieeexplore.ieee.org/abstract/document/9585532)
+
 
 ## Awesome GitHub Repositories
 
