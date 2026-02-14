@@ -392,6 +392,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 * [Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey](https://arxiv.org/abs/2402.17944)
 * [Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions](https://arxiv.org/abs/2401.02143)
 * [Deep Neural Networks and Tabular Data: A Survey](https://ieeexplore.ieee.org/abstract/document/9998482) - [code](https://github.com/kathrinse/TabSurvey?tab=readme-ov-file)
+* [Literature Review of Explainable Tabular Data Analysis](https://www.mdpi.com/2079-9292/13/19/3806)
 
 
 **2023**
@@ -492,6 +493,7 @@ A list of free courses that can help to approach tabular deep learning
 * [Toward effective and generalisable machine learning for biosignal time series](https://www.repository.cam.ac.uk/items/b99cb10e-b0ff-4820-bf2d-81ab3c8406ac)
 * [On Principles of Efficiency for Federated Learning](https://www.repository.cam.ac.uk/items/f2d8af42-5228-42f9-8c52-149195c66be0)
 * [Robust Watermarking in Federated Learning for Tabular Data with Attribution Capabilities.](https://webthesis.biblio.polito.it/36430/)
+* [Generation and Evaluation of Realistic Tabular Synthetic Data](https://portal.findresearcher.sdu.dk/en/publications/generation-and-evaluation-of-realistic-tabular-synthetic-data/)
 
 **2024**
 
@@ -500,12 +502,14 @@ A list of free courses that can help to approach tabular deep learning
 * [Advancing Anomaly Detection in Tabular Data: A Case-Study on Credit Card Fraud Identification](https://theses.hal.science/tel-05351694v1)
 * [Semantic Enrichment of Tabular Data with Machine Learning Techniques](https://boa.unimib.it/handle/10281/465138)
 * [Data-Centric AI: Tabular Data Synthesis with Deep Generative Models](https://openaccess.wgtn.ac.nz/articles/thesis/Data-Centric_AI_Tabular_Data_Synthesis_with_Deep_Generative_Models/27014419?file=49172539)
+* [Evaluation and methods of the synthetic tabular data](https://www.politesi.polimi.it/handle/10589/243384)
 
 **2023**
 
 * [Post-hoc Explainable AI for Black Box Models on Tabular Data](https://theses.hal.science/tel-04362470v1)
 * [Deep Learning on Incomplete and Multi-Source Data : Application to Cancer Immunotherapy](https://theses.hal.science/tel-04804844v1)
 * [Modeling the Structure of Tabular Files for Data Preparation](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/62435/file/vitagliano_diss.pdf)
+* [Table Augmentation in Data Lakes](https://tesidottorato.depositolegale.it/handle/20.500.14242/71411)
 
 **2022**
 
@@ -517,6 +521,8 @@ A list of free courses that can help to approach tabular deep learning
 
 * [Contributions to pattern set mining : from complex datasets to significant and useful pattern sets](https://theses.hal.science/tel-03342124v1)
 
+
 **2020**
 
 * [Deep learning for time series classification](https://theses.hal.science/tel-03715016v1)
+* [Synthesizing Tabular Data using Conditional GAN](https://dai.lids.mit.edu/wp-content/uploads/2020/02/Lei_SMThesis_neo.pdf)
