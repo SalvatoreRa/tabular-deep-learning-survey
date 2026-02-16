@@ -88,6 +88,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 | Year | Name | Paper | Code | 
 | - | - | - | - |
 | 2025 | FC-Viz  | [Towards efficient image-based representation of tabular data](https://link.springer.com/article/10.1007/s00521-023-09074-y) | |
+| 2025 |Table2Image | [Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations](https://arxiv.org/abs/2412.06265) | |
 | 2025 | Tab2Visual | [Tab2Visual: Overcoming Limited Data in Tabular Data Classification Using Deep Learning with Visual Representations](https://arxiv.org/abs/2502.07181) | |
 | 2024 | PTaRL | [Ptarl: Prototype-based tabular representation learning via space calibration](https://arxiv.org/abs/2407.05364) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/HangtingYe/PTaRL)  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/PTaRL)|
 | 2024 | CARTE | [CARTE: pretraining and transfer for tabular learning](https://proceedings.mlr.press/v235/kim24d.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/carte) |
@@ -102,6 +103,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 | 2023 | TabPTM | [Training-free generalization on heterogeneous tabular data via meta-representation](https://arxiv.org/abs/2311.00055) | - |
 | 2022 | DWTM | [A Dynamic Weighted Tabular Method for Convolutional Neural Networks](https://arxiv.org/abs/2205.10386) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AnonymousCIKM1/DWTM) |
 | 2022 | ReGram | [Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal](https://arxiv.org/abs/2212.12190) | - |
+| 2022 | Deep Learning on Small Tabular Dataset | [Deep Learning on Small Tabular Dataset: Using Transfer Learning and Image Classification](https://link.springer.com/chapter/10.1007/978-3-030-95711-7_46) | - |
 | 2022 | T2G-Former | [T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/abs/2211.16887) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jyansir/t2g-former) |
 | 2022 | Tab2Graph | [Tab2Graph: Transforming Heterogeneous Tables as Graphs](https://dl.acm.org/doi/full/10.1145/3703412.3703429) | - |
 | 2021 | IGTD | [Converting tabular data into images for deep learning with convolutional neural networks](https://www.nature.com/articles/s41598-021-90923-y) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/oeg-upm/TINTOlib-Documentation) [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/zhuyitan/IGTD) |
