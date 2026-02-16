@@ -87,12 +87,14 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 
 | Year | Name | Paper | Code | 
 | - | - | - | - |
+| 2025 | FC-Viz  | [Towards efficient image-based representation of tabular data](https://link.springer.com/article/10.1007/s00521-023-09074-y) | |
 | 2025 | Tab2Visual | [Tab2Visual: Overcoming Limited Data in Tabular Data Classification Using Deep Learning with Visual Representations](https://arxiv.org/abs/2502.07181) | |
 | 2024 | PTaRL | [Ptarl: Prototype-based tabular representation learning via space calibration](https://arxiv.org/abs/2407.05364) |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/HangtingYe/PTaRL)  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Alcoholrithm/PTaRL)|
 | 2024 | CARTE | [CARTE: pretraining and transfer for tabular learning](https://proceedings.mlr.press/v235/kim24d.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/carte) |
 | 2024 | INCE | [Graph Neural Network contextual embedding for Deep Learning on tabular data](https://www.sciencedirect.com/science/article/pii/S0893608024001047?via%3Dihub) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MatteoSalvatori/INCE) |
 | 2024 | LM-IGTD | [LM-IGTD: a 2d image generator for low-dimensional and mixed-type tabular data to leverage the potential of convolutional neural networks](https://arxiv.org/abs/2406.14566) | -  |
 | 2023 | ReConTab | [Recontab: Regularized contrastive representation learning for tabular data](https://arxiv.org/abs/2310.18541) | - |
+| 2023 | TablEye | [TablEye: Seeing small Tables through the Lens of Images](https://arxiv.org/abs/2307.02491) | - |
 | 2023 | HYTREL | [HYTREL: Hypergraph-enhanced Tabular Data Representation Learninga](https://arxiv.org/abs/2307.08623) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/hypergraph-tabular-lm) |
 | 2023 | TabGSL | [TabGSL: Graph Structure Learning for Tabular Data Prediction](https://arxiv.org/abs/2305.15843) | - |
 | 2023 | IGNNet  | [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amrmalkhatib/ignnet) |
