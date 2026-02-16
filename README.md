@@ -93,6 +93,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 | 2024 | CARTE | [CARTE: pretraining and transfer for tabular learning](https://proceedings.mlr.press/v235/kim24d.html) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/carte) |
 | 2024 | INCE | [Graph Neural Network contextual embedding for Deep Learning on tabular data](https://www.sciencedirect.com/science/article/pii/S0893608024001047?via%3Dihub) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MatteoSalvatori/INCE) |
 | 2024 | LM-IGTD | [LM-IGTD: a 2d image generator for low-dimensional and mixed-type tabular data to leverage the potential of convolutional neural networks](https://arxiv.org/abs/2406.14566) | -  |
+| 2024 | TIP  | [TIP: Tabular-Image Pre-training for Multimodal Classification with Incomplete Data](https://link.springer.com/chapter/10.1007/978-3-031-72633-0_27) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/siyi-wind/TIP)  |
 | 2023 | ReConTab | [Recontab: Regularized contrastive representation learning for tabular data](https://arxiv.org/abs/2310.18541) | - |
 | 2023 | TablEye | [TablEye: Seeing small Tables through the Lens of Images](https://arxiv.org/abs/2307.02491) | - |
 | 2023 | HYTREL | [HYTREL: Hypergraph-enhanced Tabular Data Representation Learninga](https://arxiv.org/abs/2307.08623) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/awslabs/hypergraph-tabular-lm) |
@@ -372,6 +373,7 @@ Raieli, Salvatore. 2025. “Tabular Deep Learning: A Survey from Small Neural Ne
 
 **2026**
 
+* [A comprehensive benchmark of spatial encoding methods for tabular data with deep neural networks](https://www.sciencedirect.com/science/article/pii/S1566253525011509#bib0031)
 * [Flow matching meets biology and life science: a survey](https://www.nature.com/articles/s44387-025-00066-y)
 * [Generative Adversarial Networks for Synthetic Data Generation in Deep Learning Applications](https://www.artificialintelligencepub.com/jairi/article/view/jairi-aid1004)
 * [AI-driven multi-omics integration in precision oncology: bridging the data deluge to clinical decisions](https://link.springer.com/article/10.1007/s10238-025-01965-9)
